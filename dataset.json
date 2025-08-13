@@ -1,0 +1,2186 @@
+dataset_serra_gaucha = [
+  {
+    "instrucao": "O que você pode me dizer sobre o Garden Park em Gramado? Vale a pena visitar?",
+    "resposta": "O Garden Park Gramado é um espaço de 138 mil m2 localizado na Linha 28, uma área rural da cidade. Ele possui 4 km de trilhas, 50 mil flores e 240 carvalhos canadenses. Os atrativos são os espaços em harmonia com a natureza, como bosques, jardins, mirantes e uma cascata. É importante notar que, para piqueniques, a alimentação só pode ser adquirida dentro da propriedade."
+  },
+  {
+    "instrucao": "Qual é a melhor estação do ano para visitar a Região da Uva e do Vinho?",
+    "resposta": "Todas as estações na Região da Uva e Vinho são especiais. No outono, a paisagem dos vinhedos adquire tons de ouro. O inverno atrai turistas pelo clima frio e europeu. A primavera é marcada por eventos ao ar livre. No entanto, é durante o verão, de janeiro a início de março, que ocorre a Vindima, a festa da colheita da uva, com programações especiais para os turistas."
+  },
+  {
+    "instrucao": "Estou procurando um hotel com boa gastronomia em Gramado. Alguma sugestão?",
+    "resposta": "O Hotel Casa da Montanha, localizado na Av. Borges de Medeiros, é conhecido pela gastronomia impecável do seu restaurante e por sua aconchegante sala de estar com lareira para hóspedes. Outra opção é o Hotel Varanda das Bromélias, que serve um dos melhores cafés da manhã de Gramado, disponível até o meio-dia."
+  },
+  {
+    "instrucao": "Fale sobre a vinícola Luiz Argenta.",
+    "resposta": "A vinícola Luiz Argenta é a mais famosa de Flores da Cunha. Ela se destaca por sua bela arquitetura e por ter um restaurante. A vinícola é reconhecida pelo cuidado com cada detalhe, como o design diferenciado das taças e das garrafas, que se tornaram sua marca registrada."
+  },
+  {
+    "instrucao": "O que é o roteiro 'Rota do Chocolate' em Gramado?",
+    "resposta": "A Rota do Chocolate é um dos principais atrativos de Gramado, que possui mais de 30 fábricas de chocolate, muitas com produção artesanal. O passeio inclui visitas às fábricas para conhecer o processo de produção e, claro, degustações. Algumas das marcas famosas são a Prawer, pioneira na cidade, Florybal, Planalto e Lugano."
+  },
+  {
+    "instrucao": "Como é a Rota Vale do Rio das Antas?",
+    "resposta": "É uma rota turística localizada a cerca de 10 km do centro de Bento Gonçalves, cercada por uma paisagem exuberante. As águas do Rio das Antas formam uma ferradura ao redor das montanhas. As principais atrações da rota são a Vinícola Cainelli, a Vinícola Salton, a Casa Bucco e a Ponte dos Arcos."
+  },
+  {
+    "instrucao": "Qual a história da Blauth Bier Cervejaria?",
+    "resposta": "A cervejaria tem uma história familiar. O bisavô dos proprietários veio da Alemanha em meados de 1900 e fundou o primeiro hotel de veraneio do Rio Grande do Sul em Desvio Blauth, Farroupilha. Recentemente, durante a reforma do único chalé que restou do hotel, a família encontrou uma antiga receita de cerveja escrita por ele. A partir desse momento, decidiram resgatar a história e homenagear seus ancestrais com a cervejaria."
+  },
+  {
+    "instrucao": "O que fazer em Pinto Bandeira?",
+    "resposta": "Pinto Bandeira é considerado o terroir do espumante de qualidade, com uma geografia de altitude e solo de origem vulcânica. No passeio, você pode visitar as vinícolas Cave Geisse, Don Giovani e Valmarino, além do Mirante da Cascata dos Amores. Para almoçar, o Champenoise Bistrô oferece um menu degustação com pratos elaborados e ingredientes orgânicos."
+  },
+  {
+    "instrucao": "Estou viajando com crianças. Existe alguma vinícola com atrações para elas?",
+    "resposta": "Sim, a Cave do Sol, uma vinícola moderna no Vale dos Vinhedos, oferece experiências que fogem do comum, como uma experiência kids. Outra opção é o Parque Casa da Ovelha, que é uma das atrações do roteiro Caminhos de Pedra."
+  },
+  {
+    "instrucao": "Quais são os diferenciais do hotel La Hacienda em Gramado?",
+    "resposta": "O La Hacienda fica em uma bela área rural, a 14 km de Gramado, o que proporciona isolamento. Ele possui seis chalés decorados com móveis e utensílios garimpados em demolições de casas de colonos da região. É um hotel focado em paisagem, isolamento e boa gastronomia, ideal para namorar 24 horas."
+  },
+    {
+    "instrucao": "Quero conhecer a Rota Romântica, mas tenho medo de enjoar com as curvas. Existe alguma dica para evitar isso?",
+    "resposta": "Sim, para quem sofre com as curvas acentuadas da Rota Romântica, a indicação é descer a rota de carro, partindo de cidades como Gramado, São Francisco de Paula ou Nova Petrópolis, em vez de subir a partir de Porto Alegre."
+  },
+  {
+    "instrucao": "Existe algum passeio de aventura nos cânions de Cambará do Sul?",
+    "resposta": "Sim, no Cânion Fortaleza foi lançada uma tirolesa em 2023, considerada a mais alta das Américas. No entanto, devido à enchente de maio de 2024, a atração foi temporariamente fechada e é recomendado acompanhar as atualizações da empresa Urbia Parques para saber sobre a reabertura."
+  },
+  {
+    "instrucao": "Além dos cânions, o que mais tem para fazer em Cambará do Sul e arredores?",
+    "resposta": "Além dos cânions, é possível fazer o passeio Circuito das Águas, que percorre cascatas e fazendas em cidades vizinhas. Este passeio é normalmente oferecido por empresas locais em veículos 4x4. Algumas das cascatas visitadas são a Cascata dos Venâncios, Passo da Ilha e Passo do S. O banho só é possível nos meses mais quentes do verão."
+  },
+  {
+    "instrucao": "Estou em Gramado e quero conhecer as fábricas de chocolate. Qual foi a primeira da cidade?",
+    "resposta": "A Prawer é a fábrica pioneira de chocolate em Gramado. Ela proporciona ao turista uma parada para compras com visitação à fábrica."
+  },
+  {
+    "instrucao": "Como é a experiência de piquenique no Wine Garden da Miolo?",
+    "resposta": "O Piquenique no Garden é uma das atividades mais concorridas, especialmente na primavera e verão. A experiência vem em uma caixa de madeira com comidinhas, uma garrafa de vinho Miolo Seleção Rosé, taças e uma toalha. Além disso, o ambiente é decorado com lounges, almofadas e cestos."
+  },
+  {
+    "instrucao": "Quais são as opções de alimentação dentro do Mátria Parque das Flores?",
+    "resposta": "O Mátria Parque oferece algumas opções. O Mátria Restobar e o Restaurante Faullia ficam à beira do lago, e o restobar possui uma adega subterrânea. Há também a Casa Verde, que é um local para café, espumante e lanches. Além disso, o parque oferece um serviço de piquenique chamado Alfresco."
+  },
+  {
+    "instrucao": "Procuro um hotel de luxo e exclusivo em Gramado. Quais as opções?",
+    "resposta": "Para exclusividade máxima, o Hotel Saint Andrews possui apenas onze suítes de luxo, com adega e mordomos, debruçado sobre o Vale do Quilombo. Outra opção é o Hotel Colline de France, com quartos que parecem um castelo em estilo clássico, e que inaugurou uma piscina coberta em 2022."
+  },
+  {
+    "instrucao": "Gostaria de fazer um passeio de bicicleta pelos vinhedos. Alguma vinícola oferece essa experiência?",
+    "resposta": "Sim, a Casa Perini, em Farroupilha, oferece o 'Bike Tour Experience'. Neste passeio, você pedala entre os vinhedos e faz uma parada estratégica com uma cesta de piquenique e uma garrafa de vinho."
+  },
+  {
+    "instrucao": "É verdade que a Páscoa em Gramado é especial?",
+    "resposta": "Sim. Gramado é muito conhecida por seus chocolates, que ganham ainda mais destaque durante a Páscoa. Se você quer vivenciar a cidade com atrações especiais, o ideal é programar sua viagem para abril, que é o período da Páscoa, quando as temperaturas já estão mais amenas e o centro da cidade fica decorado com a temática do evento."
+  },
+  {
+    "instrucao": "Como posso conhecer o centro histórico de Garibaldi?",
+    "resposta": "Você pode percorrer o roteiro 'PASSADAS' a pé, que demonstra a incrível conservação das casas e prédios históricos e possui placas informativas. Outra opção é agendar o passeio de 'TIM-TIM', um caminhão GMC de 1944 que faz um roteiro guiado aos sábados, às 11h."
+  },
+  {
+    "instrucao": "Qual a diferença entre a Rota Romântica e o trajeto pela RS 239 e RS 115 para chegar em Gramado?",
+    "resposta": "A Rota Romântica é um caminho mais charmoso, com muitas curvas e paisagens bonitas, que variam com as hortênsias no verão e os plátanos no outono. Já o trajeto pela RS 239 e RS 115 é mais rápido e indicado para quem tem pressa ou viaja à noite, sendo em grande parte em linha reta, mas com pedágios e controladores de velocidade."
+  },
+  {
+    "instrucao": "Quero me hospedar em uma vinícola. Qual você recomenda?",
+    "resposta": "A Vinícola Don Giovanni, em Pinto Bandeira, é também uma pousada com 8 quartos em um casarão de 1930, além de uma cabana para mais privacidade. Outra opção é a Casa Valduga, que é um grande complexo de enoturismo com pousada, restaurante e wine bar no Vale dos Vinhedos."
+  },
+    {
+    "instrucao": "Quero visitar a Serra Gaúcha, mas não sei por onde começar. Quais são as principais regiões turísticas?",
+    "resposta": "A Serra Gaúcha é ampla e se divide em três principais regiões geográficas e culturais.  Existe a Região da Uva e do Vinho, com forte influência italiana ; a Região das Hortênsias, colonizada por alemães  e onde ficam Gramado e Canela ; e os Campos de Cima da Serra, onde se encontram os cânions. "
+  },
+  {
+    "instrucao": "Estou planejando uma viagem romântica. O que você sugere?",
+    "resposta": "Para uma viagem romântica, você pode percorrer a Rota Romântica, que passa por 14 municípios e fica especialmente bonita no outono com as folhas dos plátanos.  Em Gramado, o Hotel Alpestre oferece pacotes para casais, incluindo cestas de piquenique e suítes com opcionais românticos.  Outra opção de hospedagem é o Hotel Saint Andrews, que tem apenas onze suítes de luxo com vista para o Vale do Quilombo. "
+  },
+  {
+    "instrucao": "Qual a melhor época para visitar Gramado se eu gosto de frio, e o que devo esperar?",
+    "resposta": "Para os amantes do inverno, os meses de junho, julho e agosto são a melhor escolha, com temperaturas que podem chegar perto de 0°C e até possibilidade de neve.  Esta é a alta temporada, então se prepare para um movimento maior e algumas filas nas atrações, que ficam lotadas.  É o período perfeito para vestir casacos, luvas e gorros. "
+  },
+  {
+    "instrucao": "Ouvi falar de um parque de flores perto de Gramado. Você pode me dar mais detalhes?",
+    "resposta": "Sim, é o Mátria Parque das Flores, localizado em São Francisco de Paula, a 35 km de Gramado.  É um dos maiores parques de flores do mundo, com 50 hectares, 9 milhões de mudas e 300 espécies.  Além dos 30 jardins , o parque conta com restaurante, wine bar, loja de plantas e oferece cestas de piquenique.  O ingresso em 2022 custava R$119, com isenção para crianças até 11 anos. "
+  },
+  {
+    "instrucao": "Gostaria de conhecer o Cânion Itaimbezinho. Onde fica e como é o acesso?",
+    "resposta": "O Itaimbezinho é o cânion mais visitado da região e fica no Parque Nacional de Aparados da Serra, a 18 km do centro de Cambará do Sul.  O acesso até o local é por estrada de chão com pedras.  O cânion possui três trilhas, sendo que a do Vértice e a do Cotovelo têm entrada por Cambará do Sul. "
+  },
+  {
+    "instrucao": "Sou fã de cerveja artesanal. Existe alguma cervejaria na região que valha a pena visitar?",
+    "resposta": "Sim, a Blauth Bier Cervejaria. Ela fica em uma área rural que pertence a Farroupilha, entre Garibaldi e Carlos Barbosa.  O local serve comida típica alemã, como Schnitzel e Eisbein, e aos domingos oferece uma sequência alemã no almoço.  Além dos chopps e cervejas, eles também servem vinhos e drinks. "
+  },
+  {
+    "instrucao": "Qual a cidade considerada a maior produtora de vinhos do Brasil?",
+    "resposta": "Flores da Cunha é o município considerado o maior produtor de uvas e vinhos do Brasil.  Antigamente, a cidade era chamada de Nova Trento.  A vinícola mais famosa da cidade é a Luiz Argenta. "
+  },
+  {
+    "instrucao": "O que é o Wine Garden Miolo e onde fica?",
+    "resposta": "O Wine Garden é um espaço ao ar livre da Vinícola Miolo, localizado no Vale dos Vinhedos, em Bento Gonçalves.  Fica na RS 444, km 21, em frente ao hotel SPA do Vinho.  Lá você pode degustar vinhos e espumantes em um ambiente descontraído, com opções de comidinhas como bruschettas, pizzas e tábuas de frios. "
+  },
+  {
+    "instrucao": "Quero fazer um roteiro focado em espumantes. Qual cidade e vinícola você indica?",
+    "resposta": "Garibaldi é conhecida como a Capital Brasileira do Espumante e oferece a 'ROTA DOS ESPUMANTES'.  Uma visita imprescindível é a vinícola Peterlongo, criadora do primeiro espumante do Brasil em 1913 e a única fora da França autorizada a usar o termo 'champagne'.  Outra vinícola de destaque é a Chandon, que se instalou na cidade na década de 70. "
+  },
+  {
+    "instrucao": "O que é o roteiro Caminhos de Pedra?",
+    "resposta": "Caminhos de Pedra é uma rota turística de 12 km, localizada a 6 km do centro de Bento Gonçalves.  O roteiro é repleto de casas antigas de pedra, jardins e restaurantes , sendo considerado Patrimônio Histórico do Rio Grande do Sul.  Algumas das principais atrações são a Casa do Tomate, a Casa da Ovelha e a Cantina Strapazzon. "
+  },
+  {
+    "instrucao": "Como chegar na Região da Uva e do Vinho partindo de Porto Alegre?",
+    "resposta": "Para quem chega de avião, o desembarque pode ser no aeroporto de Porto Alegre ou no de Caxias do Sul, e de ambos é preciso alugar um carro, pegar um ônibus ou contratar um translado.  De carro, a partir de Porto Alegre, a viagem dura de uma a duas horas e meia. Para Bento Gonçalves, por exemplo, a distância é de cerca de 120 km pelas estradas BR 116, RS 240 e ERS-122. "
+  },
+  {
+    "instrucao": "Fale sobre a culinária de Flores da Cunha. Qual é o prato típico?",
+    "resposta": "A culinária de Flores da Cunha tem forte influência da imigração italiana.  O prato típico do município é o Menarosto, que é um método para assar carnes, como frango e galeto, em um rolete de espetos que gira lentamente. A técnica foi trazida pelos imigrantes italianos. "
+  },
+  {
+    "instrucao": "O que é o Salto Ventoso e onde fica?",
+    "resposta": "O Salto Ventoso é uma cachoeira e parque em Farroupilha, na Serra Gaúcha. Sua principal característica é uma gruta atrás da queda d'água, que permite caminhar e ter uma vista única."
+  },
+  {
+    "instrucao": "Fale sobre a Adega Dom Camilo.",
+    "resposta": "A Adega Dom Camilo é uma vinícola em Nova Pádua com uma vista deslumbrante do Vale do Rio das Antas. É conhecida por sua forte influência italiana e pela produção de uvas e vinhos, oferecendo um espaço ao ar livre para piqueniques."
+  },
+  {
+    "instrucao": "Qual a melhor forma de aproveitar a Rota Romântica no outono?",
+    "resposta": "No outono, a Rota Romântica se enche de tons dourados com as folhas dos plátanos, criando túneis naturais. A paisagem é o principal atrativo, ideal para ser percorrida de carro, apreciando as curvas e a beleza da estação."
+  },
+  {
+    "instrucao": "O Mátria Parque das Flores é perto de Gramado?",
+    "resposta": "Sim, o Mátria Parque das Flores fica em São Francisco de Paula, a 35 km de Gramado. É um dos maiores parques de flores do mundo, com 50 hectares, e uma ótima opção para quem quer escapar das multidões de Gramado e Canela."
+  },
+  {
+    "instrucao": "Qual a história por trás da Cervejaria Blauth Bier?",
+    "resposta": "A história é familiar. O bisavô alemão dos proprietários fundou o primeiro hotel de veraneio do RS em Desvio Blauth. Recentemente, a família encontrou uma antiga receita de cerveja dele e decidiu resgatar a história, homenageando seus ancestrais com a cervejaria."
+  },
+  {
+    "instrucao": "O que fazer no Cânion Fortaleza em Cambará do Sul?",
+    "resposta": "O Cânion Fortaleza, no Parque Nacional da Serra Geral, tem uma altitude de 1.240 metros. A principal atividade é a Trilha do Mirante. O nome 'Fortaleza' vem de seus paredões que parecem muralhas."
+  },
+  {
+    "instrucao": "Qual a melhor época para fazer piquenique no Wine Garden Miolo?",
+    "resposta": "O Piquenique no Garden é mais concorrido na primavera e no verão. A experiência inclui uma caixa com comidinhas, uma garrafa de vinho, taças e toalha, em um ambiente decorado com lounges e almofadas."
+  },
+  {
+    "instrucao": "O Garden Park em Gramado tem opções de alimentação?",
+    "resposta": "Sim, mas a alimentação só pode ser adquirida dentro do parque. Haverá um Biergarten e uma Delicatessen. Por enquanto, as cestas de piquenique podem ser solicitadas antecipadamente pelo site ou telefone."
+  },
+  {
+    "instrucao": "Qual a principal característica da Região da Uva e do Vinho?",
+    "resposta": "A região une cerca de 30 municípios com forte legado da imigração italiana. A principal característica é a produção de uva, vinho e espumante, além da gastronomia diversificada encontrada em toda a região."
+  },
+  {
+    "instrucao": "Como é o acesso ao Vale dos Vinhedos?",
+    "resposta": "O Vale dos Vinhedos pertence a três municípios: Bento Gonçalves, Garibaldi e Monte Belo do Sul. É o principal roteiro de enoturismo do Brasil e a porta de entrada para a Região da Uva e do Vinho, com muitas vinícolas de renome."
+  },
+  {
+    "instrucao": "O que torna a cidade de Garibaldi especial?",
+    "resposta": "Garibaldi é a Capital Brasileira do Espumante e se destaca pela preservação de seus casarios históricos, principalmente na rua Buarque de Macedo. Possui excelentes restaurantes e hotéis charmosos como o Hotel Casacurta."
+  },
+  {
+    "instrucao": "O que encontro no roteiro Caminhos de Pedra?",
+    "resposta": "Localizado a 6 km de Bento Gonçalves, é um trajeto de 12 km com casas antigas de pedra, restaurantes e atrações como a Casa do Tomate, Casa da Ovelha, Cantina Strapazzon e a Vinícola Salvati & Sirena."
+  },
+  {
+    "instrucao": "Por que Pinto Bandeira é conhecido como o terroir do espumante?",
+    "resposta": "Devido à sua geografia de altitude, relevo ondulado e solo de origem vulcânica, a região tem Indicação de Procedência (IP) para vinhos. As vinícolas Cave Geisse, Don Giovani e Valmarino são destaques."
+  },
+  {
+    "instrucao": "Qual o prato típico de Flores da Cunha?",
+    "resposta": "O prato típico é o Menarosto, um método de assar carnes (hoje principalmente frango e galeto) em um rolete de espetos que gira lentamente, uma técnica trazida pelos imigrantes italianos."
+  },
+  {
+    "instrucao": "Onde me hospedar em Nova Pádua para ter uma bela vista?",
+    "resposta": "A Pousada Rugero, ao lado do Belvedere Sonda, oferece uma vista panorâmica do Vale do Rio das Antas. Próximo, você encontra o Restaurante Panorâmico Susin e Bisotto e a Adega Dom Camilo."
+  },
+  {
+    "instrucao": "Quantos dias são necessários para conhecer bem a região de Bento Gonçalves?",
+    "resposta": "Recomenda-se no mínimo três dias para explorar as diferentes rotas turísticas, como o Vale dos Vinhedos, Caminhos de Pedra e Vale do Rio das Antas, e aproveitar a gastronomia e os vinhos com calma."
+  },
+  {
+    "instrucao": "Qual a vinícola mais famosa na Rota Vale do Rio das Antas?",
+    "resposta": "A Vinícola Salton é uma das principais atrações da rota, junto com a Vinícola Cainelli, a Casa Bucco e a histórica Ponte dos Arcos."
+  },
+  {
+    "instrucao": "O que é a Rota Cantinas Históricas?",
+    "resposta": "Também conhecida como Linha Faria Lemos e Vale Aurora, esta rota em Bento Gonçalves tem uma das paisagens mais lindas de vinhedos. Destaques incluem os espumantes da Estrelas do Brasil e o Parque Dal Pizzol."
+  },
+  {
+    "instrucao": "Qual a importância da Vinícola Peterlongo em Garibaldi?",
+    "resposta": "A Peterlongo é a criadora do primeiro espumante brasileiro em 1913. É a única vinícola fora da França autorizada a usar o termo 'champagne'. Possui um museu e oferece visitas guiadas."
+  },
+  {
+    "instrucao": "A Chandon tem vinícola na Serra Gaúcha?",
+    "resposta": "Sim, a empresa francesa Chandon se instalou em Garibaldi na década de 70, sendo pioneira em investir na qualidade dos espumantes brasileiros. As visitas guiadas são gratuitas e devem ser agendadas."
+  },
+  {
+    "instrucao": "Onde posso comprar chocolates em Gramado além das fábricas?",
+    "resposta": "Além das fábricas como Prawer e Lugano, você pode visitar lojas temáticas como a da Florybal, o Mundo de Chocolate (um parque temático com esculturas de chocolate) e a Fabulosa Loja de Chocolates Caracol."
+  },
+  {
+    "instrucao": "Qual a melhor vinícola para um iniciante no enoturismo?",
+    "resposta": "A Vinícola Miolo é uma das pioneiras no enoturismo no Vale dos Vinhedos e oferece passeios bem completos, que passam por todas as etapas de produção. Além disso, possui o Wine Garden, um espaço descontraído para degustação."
+  },
+  {
+    "instrucao": "O que é o terroir dos espumantes?",
+    "resposta": "É uma área com características geográficas específicas que favorecem a produção de espumantes de alta qualidade. Em Pinto Bandeira, por exemplo, a altitude e o solo vulcânico contribuem para isso. A vinícola Família Geisse é um ótimo lugar para conhecer esse terroir."
+  },
+  {
+    "instrucao": "Existe alguma vinícola moderna e com obras de arte na região?",
+    "resposta": "Sim, a Cave do Sol no Vale dos Vinhedos é uma vinícola moderna inspirada no sol, repleta de obras de arte de artistas locais. Ela oferece experiências diferenciadas, como aula de yoga com degustação."
+  },
+  {
+    "instrucao": "Qual a melhor vinícola para tirar fotos?",
+    "resposta": "A vinícola Marco Luigi, no Vale dos Vinhedos, fica em uma região mais alta e é muito bonita, sendo um destino popular para eventos e casamentos. As vistas são incríveis, ideais para fotos."
+  },
+  {
+    "instrucao": "Qual vinícola oferece uma experiência mais familiar e rústica?",
+    "resposta": "A Videiras Carraro no Vale dos Vinhedos é uma agroindústria familiar. A produção é toda cultivada na propriedade e eles oferecem um espaço com mesas e redes para relaxar, além de degustações e piqueniques."
+  },
+  {
+    "instrucao": "Qual a melhor época para visitar Gramado se eu não gosto de multidão?",
+    "resposta": "Os meses de baixa temporada, como fevereiro e março (mais quentes) ou maio e setembro (temperaturas amenas), são ideais. O movimento na cidade é menor e os preços de restaurantes e atrações costumam ser mais baixos."
+  },
+  {
+    "instrucao": "O que acontece em Gramado durante a primavera?",
+    "resposta": "A primavera deixa a cidade colorida e com temperaturas agradáveis. O movimento é menos intenso que no inverno, permitindo passeios mais tranquilos. É uma estação que pode ser mais chuvosa, então é bom ter um guarda-chuva."
+  },
+  {
+    "instrucao": "Vale a pena visitar Gramado no Natal?",
+    "resposta": "Sim, a cidade fica toda decorada para o Natal e há o evento Natal Luz com uma ampla programação. É uma época de alta temporada, com temperaturas mais quentes durante o dia."
+  },
+  {
+    "instrucao": "O que é a Festa da Colônia em Gramado?",
+    "resposta": "A Festa da Colônia acontece em maio e celebra as tradições dos primeiros moradores da região. É uma oportunidade para aproveitar a gastronomia típica e o artesanato local."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado é ideal para quem busca luxo e isolamento?",
+    "resposta": "O Hotel Saint Andrews é a opção de máxima exclusividade, com apenas onze suítes de luxo, adega e mordomos, debruçado sobre o Vale do Quilombo. O La Hacienda, a 14km da cidade, também oferece isolamento em chalés rústicos."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado tem o melhor café da manhã?",
+    "resposta": "O Hotel Varanda das Bromélias é famoso por servir um dos melhores cafés da manhã de Gramado, que fica disponível até o meio-dia."
+  },
+  {
+    "instrucao": "Qual a principal vantagem do Hotel Casa da Montanha em Gramado?",
+    "resposta": "Sua localização na Av. Borges de Medeiros, perto de tudo, é um dos pontos altos. Além disso, é conhecido pela gastronomia impecável do seu restaurante e pela aconchegante sala de estar com lareira."
+  },
+  {
+    "instrucao": "Existe algum hotel em Gramado com decoração de castelo?",
+    "resposta": "Sim, o Hotel Colline de France possui quartos com estilo clássico que parecem um castelo. É um hotel muito charmoso, ideal para casais, e inaugurou uma bela piscina coberta em 2022."
+  },
+  {
+    "instrucao": "Como é o passeio de Tim-Tim em Garibaldi?",
+    "resposta": "O Tim-Tim é um caminhão GMC de 1944 que faz um roteiro guiado pelo centro histórico de Garibaldi aos sábados. É uma forma diferente de conhecer as casas e prédios históricos da cidade."
+  },
+  {
+    "instrucao": "Qual a principal atração do roteiro Encantos de Eulália em Bento Gonçalves?",
+    "resposta": "A grande atração desta rota rural é o Parque de Aventuras Gasper, além das paisagens com pequenas vinícolas, uma pousada e restaurantes."
+  },
+  {
+    "instrucao": "Onde posso fazer degustação de cachaça na Serra Gaúcha?",
+    "resposta": "A Casa Bucco, localizada na Rota Vale do Rio das Antas em Bento Gonçalves, é conhecida por sua cachaça de qualidade."
+  },
+  {
+    "instrucao": "Qual a vinícola que produziu o vinho da Copa do Mundo de 2014?",
+    "resposta": "A vinícola Lídio Carraro, localizada na Rota Vale dos Vinhedos, ficou conhecida por produzir o vinho oficial da Copa do Mundo de 2014."
+  },
+  {
+    "instrucao": "Qual o hotel mais famoso no Vale dos Vinhedos?",
+    "resposta": "O Hotel & SPA do Vinho é um dos mais famosos e luxuosos da rota, oferecendo uma experiência completa de enoturismo e bem-estar."
+  },
+  {
+    "instrucao": "O que é a Rota dos Vinhos de Altos Montes?",
+    "resposta": "É um roteiro de enoturismo no interior de Flores da Cunha e Nova Pádua, promovido por uma associação de dez vinícolas para qualificar a produção de vinhos finos da região, que possui certificação de origem."
+  },
+  {
+    "instrucao": "Posso levar meu pet para o Garden Park em Gramado?",
+    "resposta": "Sim, o Garden Park Gramado aceita pets. Você também pode levar seu chimarrão para aproveitar o passeio."
+  },
+  {
+    "instrucao": "Qual o custo do ingresso para o Mátria Parque das Flores?",
+    "resposta": "Em 2022, o ingresso custava R$119 para adultos. Crianças até 11 anos são isentas. É recomendado verificar o valor atualizado no site do parque."
+  },
+  {
+    "instrucao": "O que é o 'Circuito das Águas' em Cambará do Sul?",
+    "resposta": "É um passeio, geralmente feito em veículos 4x4, que percorre cascatas e fazendas em cidades vizinhas a Cambará do Sul, como a Cascata dos Venâncios e o Passo da Ilha. O banho só é possível nos meses mais quentes."
+  },
+  {
+    "instrucao": "Que tipo de comida é servida na Blauth Bier Cervejaria?",
+    "resposta": "A cervejaria serve comida típica alemã, como Schnitzel, Eisbein e salada de batata (Kartoffelsalat). Aos domingos, oferece uma sequência alemã no almoço."
+  },
+  {
+    "instrucao": "Qual a cidade considerada o berço da cultura italiana na Serra Gaúcha?",
+    "resposta": "Flores da Cunha é considerada o berço da cultura italiana na Serra Gaúcha, além de ser a maior produtora de uvas e vinhos do Brasil."
+  },
+  {
+    "instrucao": "O que é o Ateliê Bez Batti?",
+    "resposta": "O Ateliê Bez Batti é uma das atrações do roteiro Caminhos de Pedra, em Bento Gonçalves, onde é possível conhecer o trabalho do artista com esculturas em basalto."
+  },
+  {
+    "instrucao": "Onde posso encontrar cucas artesanais na Serra Gaúcha?",
+    "resposta": "A Casa das Cucas, no roteiro Caminhos de Pedra em Bento Gonçalves, é uma parada famosa para provar e comprar cucas tradicionais da região."
+  },
+  {
+    "instrucao": "Qual a altitude do Cânion Itaimbezinho?",
+    "resposta": "O Cânion Itaimbezinho tem paredões com cerca de 700 metros de altura. Ele fica no Parque Nacional de Aparados da Serra, em Cambará do Sul."
+  },
+  {
+    "instrucao": "Existem hotéis de luxo em Cambará do Sul?",
+    "resposta": "Sim, o Parador é um hotel de barracas de luxo (glamping) com um restaurante renomado (Alma RS), que oferece experiências de contemplação, cavalgadas e piqueniques."
+  },
+  {
+    "instrucao": "Qual a diferença entre o Cânion Fortaleza e o Itaimbezinho?",
+    "resposta": "O Fortaleza fica no Parque Nacional da Serra Geral e é conhecido por seus paredões que parecem muralhas. O Itaimbezinho, no Parque Nacional de Aparados da Serra, é o mais visitado e tem trilhas mais estruturadas como a do Vértice e a do Cotovelo."
+  },
+  {
+    "instrucao": "Qual a principal diferença de trajeto entre a Rota Romântica e o caminho pela RS-239/RS-115 para chegar a Gramado?",
+    "resposta": "A Rota Romântica é um percurso mais cênico e com curvas, com paisagens de plátanos e hortênsias. Já o trajeto pela RS-239 e RS-115 é mais rápido e reto, ideal para quem tem pressa ou viaja à noite, mas possui pedágios."
+  },
+  {
+    "instrucao": "Quais as opções de alimentação dentro do Mátria Parque das Flores?",
+    "resposta": "O parque oferece o Mátria Restobar e o Restaurante Faullia à beira do lago, a Casa Verde para lanches e cafés, e o serviço de piquenique Alfresco, que pode ser em tenda ou cesta."
+  },
+  {
+    "instrucao": "Onde fica a Cervejaria Blauth Bier e qual passeio posso combinar com a visita?",
+    "resposta": "A cervejaria fica na zona rural de Farroupilha. Uma boa dica é combinar a visita à Blauth Bier com um passeio à Cascata Salto Ventoso, que fica na mesma cidade."
+  },
+  {
+    "instrucao": "Que tipo de hospedagem é o Parador em Cambará do Sul?",
+    "resposta": "O Parador é um hotel de luxo no estilo 'glamping', com barracas de luxo. Oferece alta gastronomia no restaurante Alma RS, além de experiências como cavalgadas, trilhas e piqueniques."
+  },
+  {
+    "instrucao": "É possível aproveitar o Wine Garden da Miolo durante o inverno?",
+    "resposta": "Sim, o Wine Garden não perde o seu charme no inverno. O local oferece mantas, recantos aconchegantes e, por vezes, há fogueiras e música ao vivo para aquecer o ambiente."
+  },
+  {
+    "instrucao": "Qual é o horário de funcionamento e o preço do ingresso do Garden Park em Gramado?",
+    "resposta": "O parque abre diariamente das 9h às 17h. O ingresso para adulto custa a partir de R$ 99 na baixa temporada, com valores diferentes para sênior, estudantes e crianças."
+  },
+  {
+    "instrucao": "Qual é a melhor época para acompanhar a colheita da uva na Serra Gaúcha?",
+    "resposta": "A melhor época é durante o verão, de janeiro ao início de março. Nesse período ocorre a Vindima, a festa da colheita da uva, com diversas programações especiais para os turistas."
+  },
+  {
+    "instrucao": "Como posso chegar à Região da Uva e do Vinho se eu for de avião?",
+    "resposta": "O desembarque pode ser feito no Aeroporto Salgado Filho, em Porto Alegre, ou no aeroporto de Caxias do Sul. De ambos os locais, é preciso alugar um carro, pegar um ônibus ou contratar um serviço de translado."
+  },
+  {
+    "instrucao": "Onde fica Monte Belo do Sul e por que devo visitar?",
+    "resposta": "Monte Belo do Sul é um dos três municípios que formam o Vale dos Vinhedos. É uma cidade pequena e charmosa, localizada no final do roteiro, que vale a pena conhecer para se surpreender."
+  },
+  {
+    "instrucao": "O que mais posso encontrar no roteiro Caminhos de Pedra além das construções históricas?",
+    "resposta": "Além das casas de pedra, o roteiro conta com atrações como a Casa do Tomate, a Casa da Ovelha, a Vinícola Salvati & Sirena e até mesmo um Parque de Aventuras."
+  },
+  {
+    "instrucao": "Que tipo de vinho é o destaque de Pinto Bandeira?",
+    "resposta": "Pinto Bandeira é considerado o terroir do espumante de alta qualidade. A região possui Indicação de Procedência (IP) para vinhos devido à sua altitude e solo de origem vulcânica."
+  },
+  {
+    "instrucao": "Qual é a vinícola mais conhecida em Flores da Cunha?",
+    "resposta": "A vinícola mais famosa da cidade é a Luiz Argenta, que se destaca por sua bela arquitetura e por abrigar um restaurante."
+  },
+  {
+    "instrucao": "Qual a proposta da Rota dos Vinhos de Altos Montes?",
+    "resposta": "É um roteiro que une dez vinícolas em Flores da Cunha e Nova Pádua para promover a área geográfica na produção de vinhos finos com certificação de origem."
+  },
+  {
+    "instrucao": "Onde posso encontrar um restaurante com vista panorâmica em Nova Pádua?",
+    "resposta": "O Restaurante Panorâmico Susin e Bisotto, localizado próximo à Pousada Rugero, oferece uma bela vista panorâmica do Vale do Rio das Antas."
+  },
+  {
+    "instrucao": "O que é o Parque de Aventuras Gasper?",
+    "resposta": "É a principal atração do roteiro rural Encantos de Eulália, em Bento Gonçalves, e oferece diversas atividades de aventura para os visitantes."
+  },
+  {
+    "instrucao": "Onde posso provar os espumantes da vinícola Estrelas do Brasil?",
+    "resposta": "A vinícola Estrelas do Brasil é um dos destaques da Rota Cantinas Históricas, em Bento Gonçalves, e é conhecida por seus espumantes e pela bela paisagem."
+  },
+  {
+    "instrucao": "A visita à vinícola Chandon é paga?",
+    "resposta": "Não, as visitas guiadas na vinícola Chandon, em Garibaldi, são gratuitas, mas precisam ser agendadas com antecedência através do site da empresa."
+  },
+  {
+    "instrucao": "O que é a Cerveja Leopoldina e onde posso encontrá-la?",
+    "resposta": "É uma marca de cerveja produzida pela empresa Valduga. É possível fazer um tour e uma degustação na Domno, em Garibaldi, que fica na rodovia BR 470."
+  },
+  {
+    "instrucao": "Onde fica o Mundo de Chocolate em Gramado?",
+    "resposta": "O parque temático fica na Av. Borges de Medeiros, 2497. Ele apresenta mais de 200 peças e cenários feitos de chocolate, incluindo réplicas de monumentos famosos."
+  },
+  {
+    "instrucao": "Qual o diferencial da Prawer Chocolates para os turistas?",
+    "resposta": "A Prawer, sendo a fábrica pioneira de Gramado, oferece aos visitantes a oportunidade de fazer compras e, ao mesmo tempo, visitar a fábrica para conhecer o processo de produção."
+  },
+  {
+    "instrucao": "Para que perfil de viajante a hospedagem na Casa Valduga é mais indicada?",
+    "resposta": "É uma excelente opção para uma viagem romântica. A Casa Valduga é um grande complexo de enoturismo no Vale dos Vinhedos que inclui vinícola, restaurante, wine bar e pousada."
+  },
+  {
+    "instrucao": "Que experiência a Casa Perini oferece para quem gosta de andar de bicicleta?",
+    "resposta": "A Casa Perini, em Farroupilha, oferece o 'Bike Tour Experience', um passeio de bicicleta entre os vinhedos que inclui uma parada para um piquenique com vinho."
+  },
+  {
+    "instrucao": "Qual é a particularidade da Vinícola Peterlongo em relação ao uso do termo 'champagne'?",
+    "resposta": "A Peterlongo tem o direito legal de chamar seus espumantes de 'champagne', sendo a única vinícola fora da França com essa autorização."
+  },
+  {
+    "instrucao": "Qual é a especialidade da vinícola Família Geisse?",
+    "resposta": "A Família Geisse, localizada em Pinto Bandeira, é uma vinícola emblemática na produção de espumantes de alta qualidade. Ela possui um famoso 'garden' para degustações ao ar livre."
+  },
+  {
+    "instrucao": "O que se destaca no design da Vinícola Luiz Argenta?",
+    "resposta": "A vinícola se diferencia por sua arquitetura moderna e pelo cuidado com o design em todos os aspectos, desde os espaços físicos até as taças e as garrafas, que se tornaram sua marca registrada."
+  },
+  {
+    "instrucao": "Qual é a melhor época para visitar Gramado para quem prefere o calor?",
+    "resposta": "Os meses de dezembro, janeiro e fevereiro são os mais quentes, com temperaturas que podem ultrapassar os 30 graus, criando um clima ideal para passeios e para tomar um chopp."
+  },
+  {
+    "instrucao": "O que acontece de especial em Gramado no mês de abril?",
+    "resposta": "Abril é o mês da Páscoa. A cidade, que já é famosa por seus chocolates, ganha uma decoração temática e oferece atrações especiais, com temperaturas geralmente mais amenas."
+  },
+  {
+    "instrucao": "Quando devo visitar Gramado para encontrar a cidade mais tranquila e com preços melhores?",
+    "resposta": "A baixa temporada é a melhor opção. Os meses de fevereiro e março (mais quentes) ou maio e setembro (temperaturas amenas) têm menos movimento e preços mais acessíveis."
+  },
+  {
+    "instrucao": "Além do frio, qual é o principal evento de Gramado durante o inverno?",
+    "resposta": "Durante o inverno, além da alta temporada de frio que ocorre entre junho e agosto, a cidade sedia o famoso Festival de Cinema de Gramado."
+  },
+  {
+    "instrucao": "Que tipo de pacote romântico o Hotel Alpestre em Gramado oferece?",
+    "resposta": "O hotel oferece pacotes para casais e luas de mel com opcionais que vão desde espumante e flores no quarto até massagens, terapias assinadas pelo Kur SPA e fondue no apartamento."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado está localizado em frente ao famoso Lago Negro?",
+    "resposta": "O Hotel St Hubertus, um dos hotéis de charme mais tradicionais e elegantes de Gramado, está situado em uma localização privilegiada, bem em frente ao Lago Negro."
+  },
+  {
+    "instrucao": "Quais são os principais atrativos de se hospedar no Hotel La Hacienda em Gramado?",
+    "resposta": "Localizado a 14 km de Gramado, em uma área rural, o hotel oferece isolamento, uma bela paisagem e boa gastronomia em seis chalés com decoração rústica, sendo ideal para casais."
+  },
+  {
+    "instrucao": "Como é o centro histórico da cidade de Garibaldi?",
+    "resposta": "O centro histórico, com destaque para a rua Buarque de Macedo, é muito bem preservado, com fachadas centenárias, fiação subterrânea e um charme que proporciona uma viagem no tempo."
+  },
+  {
+    "instrucao": "Qual vinícola é referência na produção de vinhos Moscatel?",
+    "resposta": "A Casa Perini, em Farroupilha, é um ícone na produção de Moscatel, e seu espumante dessa variedade já foi premiado diversas vezes."
+  },
+  {
+    "instrucao": "Onde posso almoçar em Pinto Bandeira?",
+    "resposta": "O Champenoise Bistrô é uma excelente opção. Ele oferece um menu degustação com pratos elaborados, ingredientes orgânicos e uma boa seleção de vinhos."
+  },
+  {
+    "instrucao": "O que é o Parque Dal Pizzol?",
+    "resposta": "O Parque Dal Pizzol é uma das atrações da Rota Cantinas Históricas, em Bento Gonçalves. É um espaço que combina vinícola com uma ampla área verde e natureza."
+  },
+  {
+    "instrucao": "Qual é o diferencial da Vinícola Cristofoli?",
+    "resposta": "Localizada na Rota Cantinas Históricas, a Cristofoli oferece um tour e um almoço harmonizado, que precisam ser agendados, proporcionando uma experiência enogastronômica completa."
+  },
+  {
+    "instrucao": "O que é a Fabulosa Loja de Chocolates Caracol?",
+    "resposta": "É uma loja temática e interativa da Caracol Chocolates. A proposta é oferecer uma experiência lúdica, onde o visitante pode interagir com cenários e personagens."
+  },
+  {
+    "instrucao": "A vinícola Don Giovanni oferece apenas degustação de vinhos?",
+    "resposta": "Não, além de vinícola, a Don Giovanni em Pinto Bandeira é também uma pousada com quartos em um casarão de 1930 e uma cabana. Conta também com o restaurante Nature Vinho & Gastronomia."
+  },
+  {
+    "instrucao": "A Videiras Carraro é uma vinícola de grande porte?",
+    "resposta": "Não, trata-se de uma agroindústria familiar no Vale dos Vinhedos. Toda a produção é cultivada na propriedade, e eles oferecem um espaço aconchegante para degustações e piqueniques."
+  },
+  {
+    "instrucao": "Qual é o hotel mais luxuoso do Vale dos Vinhedos?",
+    "resposta": "O Hotel & SPA do Vinho é um dos mais famosos e luxuosos da rota. Ele oferece uma experiência completa de enoturismo, com hospedagem de alto padrão e serviços de spa."
+  },
+  {
+    "instrucao": "Qual é a rua histórica mais importante de Garibaldi?",
+    "resposta": "A rua Buarque de Macedo é uma das vias mais antigas do Rio Grande do Sul. Ela foi totalmente revitalizada, com fachadas centenárias e fiação subterrânea."
+  },
+  {
+    "instrucao": "Qual a característica do clima em Cambará do Sul?",
+    "resposta": "A cidade está em uma região de altitude elevada, o que a torna um dos locais com as temperaturas mais baixas do Brasil, sendo comum a ocorrência de geadas no inverno."
+  },
+  {
+    "instrucao": "Qual a origem do nome da cidade de Cambará do Sul?",
+    "resposta": "O nome vem do tupi-guarani e significa 'folha de casca rugosa', que é o nome de uma árvore típica da região, cujas folhas teriam poder medicinal."
+  },
+  {
+    "instrucao": "Qual é o produto de destaque da Chocolate Caseiro Planalto?",
+    "resposta": "Um dos destaques da Planalto é o salame de chocolate, que é feito com massa italiana, amêndoas, avelãs e coberto com chocolate amargo."
+  },
+  {
+    "instrucao": "Quais são as três principais influências culturais da Serra Gaúcha?",
+    "resposta": "A Serra Gaúcha é dividida em três grandes regiões culturais: Campos de Cima da Serra (influência gaúcha), Região das Hortênsias (influência alemã) e Região da Uva e do Vinho (influência italiana)."
+  },
+  {
+    "instrucao": "A Trilha do Rio, no Cânion Itaimbezinho, é recomendada para todos os públicos?",
+    "resposta": "Não, a Trilha do Rio fica na parte de baixo do cânion, com acesso por Santa Catarina, e é considerada uma trilha de maior dificuldade, mais indicada para aventureiros experientes."
+  },
+  {
+    "instrucao": "Que tipo de experiência romântica o Hotel Casa da Montanha oferece?",
+    "resposta": "O hotel oferece pacotes com 'cenários românticos', que podem incluir decoração especial no quarto, jantares, mimos personalizados e outras surpresas para casais."
+  },
+  {
+    "instrucao": "O que é a Pousada Rugero em Nova Pádua?",
+    "resposta": "É uma pousada com uma localização privilegiada, ao lado do Belvedere Sonda, que oferece uma vista espetacular do Vale do Rio das Antas para seus hóspedes."
+  },
+  {
+    "instrucao": "Qual é a melhor opção de hospedagem em Garibaldi para quem gosta de história e charme?",
+    "resposta": "O Hotel Casacurta é uma excelente escolha. É um hotel charmoso que combina uma bela arquitetura histórica com serviços de enogastronomia de qualidade, como o seu restaurante Hostaria Casacurta."
+  },
+  {
+    "instrucao": "Qual a principal diferença cultural entre as regiões da Serra Gaúcha?",
+    "resposta": "A Serra Gaúcha se divide em três grandes culturas: a Região das Hortênsias, com forte influência da colonização alemã; a Região da Uva e do Vinho, marcada pelo legado dos imigrantes italianos; e os Campos de Cima da Serra, que preservam a cultura gaúcha tradicional."
+  },
+  {
+    "instrucao": "Se eu quiser uma experiência com foco na cultura italiana, para qual região da Serra Gaúcha devo ir?",
+    "resposta": "Para uma imersão na cultura italiana, a melhor escolha é a Região da Uva e do Vinho, que inclui cidades como Bento Gonçalves e Garibaldi, onde a herança dos imigrantes italianos é preservada na gastronomia, nos costumes e, claro, na produção de vinhos."
+  },
+  {
+    "instrucao": "Onde encontro a cultura alemã mais presente na Serra Gaúcha?",
+    "resposta": "A cultura alemã é a principal característica da Região das Hortênsias, que abrange cidades como Gramado, Canela e Nova Petrópolis. A influência dos colonizadores alemães é visível na arquitetura, na culinária e nas festividades locais."
+  },
+  {
+    "instrucao": "Quero conhecer a Vinícola Peterlongo. Qual é o seu maior diferencial histórico?",
+    "resposta": "O grande diferencial da Vinícola Peterlongo, em Garibaldi, é que ela possui o direito legal de chamar seus espumantes de 'champagne', sendo a única vinícola fora da França com essa autorização. Além disso, foi a criadora do primeiro espumante brasileiro em 1913."
+  },
+  {
+    "instrucao": "Existe alguma vinícola no Brasil que pode usar o termo 'champagne'?",
+    "resposta": "Sim, a Vinícola Peterlongo, localizada em Garibaldi. Devido a uma particularidade histórica e legal, ela é a única no Brasil autorizada a usar a denominação 'champagne' em seus rótulos."
+  },
+  {
+    "instrucao": "Estou em Garibaldi e quero visitar uma vinícola com uma história única. Qual você recomenda?",
+    "resposta": "Em Garibaldi, uma visita imprescindível é à centenária Vinícola Peterlongo. Sua história é única, pois foi onde nasceu o primeiro espumante brasileiro, em 1913, e é a única no país que pode legalmente usar o termo 'champagne'."
+  },
+  {
+    "instrucao": "Onde fica o Mátria Parque das Flores e qual o seu tamanho?",
+    "resposta": "O Mátria Parque das Flores está localizado em São Francisco de Paula, no Km 68 da ERS 235, a 35 km de Gramado. É um parque imenso, com uma área de 50 hectares."
+  },
+  {
+    "instrucao": "Estou em Gramado e quero visitar um grande parque de flores. Existe algum por perto?",
+    "resposta": "Sim, a 35 km de Gramado, em São Francisco de Paula, fica o Mátria Parque das Flores. É um dos maiores do mundo, com 30 jardins, 9 milhões de mudas de plantas e 300 espécies diferentes."
+  },
+  {
+    "instrucao": "O que o Mátria Parque oferece além dos jardins?",
+    "resposta": "Além dos mais de 30 jardins, o Mátria Parque conta com uma estrutura completa que inclui restaurante, wine bar com adega subterrânea, loja de plantas e acessórios, e o serviço de piquenique Alfresco, com opções de cestas ou tendas montadas."
+  },
+  {
+    "instrucao": "Qual a principal característica gastronômica da Blauth Bier Cervejaria?",
+    "resposta": "A Blauth Bier é focada em comida típica alemã. O cardápio inclui clássicos como Schnitzel e Eisbein. Aos domingos, o destaque é a sequência alemã servida no almoço, com mais de 15 pratos típicos."
+  },
+  {
+    "instrucao": "Se eu quiser almoçar comida alemã autêntica perto de Garibaldi, onde devo ir?",
+    "resposta": "Uma excelente opção é a Blauth Bier Cervejaria, localizada na área rural de Farroupilha, entre Garibaldi e Carlos Barbosa. Eles são especializados em gastronomia alemã, como o tradicional Schnitzel, e oferecem uma sequência completa aos domingos."
+  },
+  {
+    "instrucao": "A Blauth Bier serve apenas cerveja?",
+    "resposta": "Não, além dos vários tipos de chopps e cervejas artesanais, a Blauth Bier também oferece vinhos, drinks, cachaça local e o drink Aperol Spritz."
+  },
+  {
+    "instrucao": "Qual o prato mais famoso de Flores da Cunha?",
+    "resposta": "O prato típico de Flores da Cunha é o Menarosto. É um método de assar diferentes tipos de carne, hoje principalmente frango e galeto, em um rolete de espetos que gira lentamente, uma técnica trazida pelos imigrantes italianos."
+  },
+  {
+    "instrucao": "O que é Menarosto?",
+    "resposta": "Menarosto é o prato típico de Flores da Cunha. Trata-se de uma técnica de assar carnes em um rolete de espetos giratório, herança dos imigrantes italianos. Antigamente usava-se carne de caça, mas hoje é feito principalmente com galeto."
+  },
+  {
+    "instrucao": "Onde posso comer o prato típico da culinária de Flores da Cunha?",
+    "resposta": "Para provar o Menarosto, o prato típico de Flores da Cunha, você deve procurar por restaurantes na cidade que preservem a culinária dos imigrantes italianos, pois foi uma técnica trazida por eles para assar carnes."
+  },
+  {
+    "instrucao": "O Hotel Casacurta fica em qual cidade?",
+    "resposta": "O Hotel Casacurta, conhecido por seu charme, história e enogastronomia, está localizado em Garibaldi, a Capital Brasileira do Espumante."
+  },
+  {
+    "instrucao": "Estou procurando uma hospedagem com charme histórico em Garibaldi. Qual a recomendação?",
+    "resposta": "Em Garibaldi, a grande pedida para uma hospedagem com história e charme é o Hotel Casacurta, que também conta com um excelente restaurante, o Hostaria Casacurta."
+  },
+  {
+    "instrucao": "Qual o principal diferencial do Cânion Fortaleza?",
+    "resposta": "O Cânion Fortaleza, localizado no Parque Nacional da Serra Geral, tem como diferencial seus paredões que se assemelham a muralhas, o que lhe rendeu o nome. Além disso, possui a Trilha do Mirante como principal atividade."
+  },
+  {
+    "instrucao": "Qual dos cânions em Cambará do Sul parece uma muralha?",
+    "resposta": "O Cânion Fortaleza é o que recebe esse nome justamente porque seus paredões se parecem com as muralhas de um forte. Ele está situado no Parque Nacional da Serra Geral."
+  },
+  {
+    "instrucao": "Como é o acesso para o Cânion Fortaleza?",
+    "resposta": "O acesso ao Cânion Fortaleza, a partir do centro de Cambará do Sul, é por uma estrada de 23 km, parte dela de chão com muitas pedras. É recomendado usar um carro apropriado ou contratar um guia local."
+  },
+  {
+    "instrucao": "Qual a vinícola mais famosa em Flores da Cunha e por quê?",
+    "resposta": "A vinícola mais famosa de Flores da Cunha é a Luiz Argenta. Ela se destaca principalmente por sua bela e moderna arquitetura e por abrigar um restaurante, além do cuidado com o design de suas garrafas e taças."
+  },
+  {
+    "instrucao": "Estou em Flores da Cunha e quero visitar uma vinícola com arquitetura moderna. Qual devo escolher?",
+    "resposta": "A melhor escolha é a Vinícola Luiz Argenta. Ela é reconhecida por sua arquitetura diferenciada e design moderno em todos os detalhes, sendo um dos principais pontos turísticos da cidade."
+  },
+  {
+    "instrucao": "Qual a principal diferença entre os roteiros Caminhos de Pedra e Vale dos Vinhedos?",
+    "resposta": "O roteiro Caminhos de Pedra foca na história e arquitetura dos imigrantes italianos, com suas casas de pedra preservadas e restaurantes típicos. Já o Vale dos Vinhedos é o principal roteiro de enoturismo do Brasil, concentrando grandes e renomadas vinícolas."
+  },
+  {
+    "instrucao": "Se eu busco história e arquitetura colonial, devo visitar o Vale dos Vinhedos ou Caminhos de Pedra?",
+    "resposta": "Para uma imersão na história e na arquitetura colonial, o roteiro Caminhos de Pedra é a escolha ideal. Ele é um Patrimônio Histórico do RS, com um trajeto de 12 km repleto de casas antigas de pedra, cantinas e restaurantes."
+  },
+  {
+    "instrucao": "O que é o Wine Garden e qual sua proposta?",
+    "resposta": "O Wine Garden é um espaço ao ar livre da Vinícola Miolo, no Vale dos Vinhedos. Sua proposta é oferecer um ambiente descontraído, como um piquenique chique, para degustar vinhos e espumantes, com comidinhas e lounges decorados no gramado."
+  },
+  {
+    "instrucao": "Onde posso fazer um piquenique em uma vinícola no Vale dos Vinhedos?",
+    "resposta": "O Wine Garden da Vinícola Miolo é o lugar perfeito para isso. Eles oferecem uma experiência de piquenique completa, com uma caixa de madeira com comidinhas, vinho, taças e toalha, em um lindo jardim."
+  },
+  {
+    "instrucao": "O que é a Rota dos Vinhos de Altos Montes?",
+    "resposta": "É uma associação de mais de dez vinícolas localizadas em Flores da Cunha e Nova Pádua. O objetivo é promover a região como produtora de vinhos finos com certificação de origem, incentivando a qualificação da bebida."
+  },
+  {
+    "instrucao": "Qual roteiro une as vinícolas de Flores da Cunha e Nova Pádua?",
+    "resposta": "O roteiro que une as vinícolas dessas duas cidades é a Rota dos Vinhos de Altos Montes, uma iniciativa para promover a área geográfica e a qualidade dos vinhos finos produzidos na região."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado é conhecido pela exclusividade e luxo extremo?",
+    "resposta": "O Hotel Saint Andrews é a definição de exclusividade máxima em Gramado. Com apenas onze suítes de luxo, mordomos, adega e uma vista cinematográfica para o Vale do Quilombo, ele oferece a experiência mais luxuosa da região."
+  },
+  {
+    "instrucao": "Se eu não me importo com o preço e quero a hospedagem mais luxuosa de Gramado, qual você indica?",
+    "resposta": "Nesse caso, a recomendação é o Hotel Saint Andrews. É um hotel estilo castelo com apenas onze suítes, oferecendo serviço de mordomo e o mais alto nível de luxo e exclusividade, com as diárias mais caras da serra."
+  },
+  {
+    "instrucao": "Descreva o roteiro de 2 dias em Flores da Cunha e Nova Pádua sugerido no documento.",
+    "resposta": "No Dia 1, a sugestão é almoçar na Trattoria Gazoldo na vinícola Viapiana, visitar a Família Bebber à tarde e curtir o entardecer na Pousada Rugero ou Adega Dom Camilo. No Dia 2, caminhar no entorno da pousada, visitar a Vinícola Salvattore, almoçar no Dolce Itália e, à tarde, visitar a Vinícola Luiz Argenta ou Casa Venturini."
+  },
+  {
+    "instrucao": "Planeje uma viagem de fim de semana para a região de Flores da Cunha e Nova Pádua.",
+    "resposta": "Um roteiro sugerido seria: Dia 1 com almoço na Viapiana, seguido de degustação na Vinícola Família Bebber e pôr do sol na Adega Dom Camilo. Dia 2 pode incluir uma caminhada no Belvedere Sonda pela manhã, visita à Vinícola Salvattore, almoço na Escola de Gastronomia da UCS e uma visita final à Vinícola Luiz Argenta."
+  },
+  {
+    "instrucao": "Qual o principal atrativo da Rota Rural Encantos de Eulália?",
+    "resposta": "A grande atração do roteiro Encantos de Eulália, em Bento Gonçalves, é o Parque de Aventuras Gasper, que se destaca em meio às paisagens rurais com pequenas vinícolas e restaurantes."
+  },
+  {
+    "instrucao": "Estou procurando por atividades de aventura em Bento Gonçalves, onde devo ir?",
+    "resposta": "Para atividades de aventura, a melhor opção é o roteiro Encantos de Eulália, cuja principal atração é o Parque de Aventuras Gasper."
+  },
+  {
+    "instrucao": "Qual vinícola ficou famosa por produzir o vinho da Copa do Mundo de 2014?",
+    "resposta": "A vinícola Lídio Carraro, localizada na Rota Vale dos Vinhedos, ficou conhecida internacionalmente por ter produzido o vinho oficial da Copa do Mundo de 2014, realizada no Brasil."
+  },
+  {
+    "instrucao": "Qual o grande feito da vinícola Lídio Carraro?",
+    "resposta": "A Lídio Carraro ganhou notoriedade por ter sido a vinícola escolhida para produzir o vinho oficial da Copa do Mundo de 2014."
+  },
+  {
+    "instrucao": "O que é o passeio de Tim-Tim em Garibaldi?",
+    "resposta": "O Tim-Tim é um passeio guiado pelo centro histórico de Garibaldi, realizado em um charmoso caminhão GMC do ano de 1944. O roteiro acontece aos sábados pela manhã."
+  },
+  {
+    "instrucao": "Como posso fazer um tour pelo centro histórico de Garibaldi de forma diferente?",
+    "resposta": "Além de caminhar pelo roteiro 'PASSADAS', você pode agendar o passeio de 'Tim-Tim', um caminhão GMC de 1944 que oferece um tour guiado pela área histórica aos sábados."
+  },
+  {
+    "instrucao": "A Chandon em Garibaldi cobra pelas visitas guiadas?",
+    "resposta": "Não, uma grande vantagem da Chandon é que as visitas guiadas são gratuitas. No entanto, elas devem ser agendadas com bastante antecedência através do site da empresa."
+  },
+  {
+    "instrucao": "Quero visitar a Chandon, preciso pagar?",
+    "resposta": "A visita guiada na Chandon é gratuita, o que é um grande atrativo. Apenas lembre-se que é obrigatório fazer o agendamento prévio no site deles."
+  },
+  {
+    "instrucao": "Qual a melhor época para visitar Gramado se quero evitar multidões?",
+    "resposta": "Para uma experiência mais tranquila, os meses de baixa temporada são ideais. Isso inclui fevereiro e março, que são mais quentes, ou maio e setembro, com temperaturas mais amenas. Nesses períodos, a cidade tem menos movimento e os preços são mais baixos."
+  },
+  {
+    "instrucao": "Quero ir para Gramado, mas odeio filas e preços altos. Quando devo ir?",
+    "resposta": "A melhor escolha para você seria a baixa temporada. Os meses de maio e setembro oferecem um clima ameno e menos turistas. Se preferir o calor, fevereiro e março também são mais tranquilos e com preços melhores do que na alta temporada de inverno ou Natal."
+  },
+  {
+    "instrucao": "Descreva a experiência de se hospedar no Hotel La Hacienda.",
+    "resposta": "O Hotel La Hacienda fica a 14 km de Gramado, em uma área rural, oferecendo isolamento e contato com a natureza. A hospedagem é em seis chalés charmosos com decoração rústica, sendo um local focado em paisagem e gastronomia, ideal para casais."
+  },
+  {
+    "instrucao": "Se eu quiser me isolar do centro de Gramado em um hotel romântico, qual a sugestão?",
+    "resposta": "O La Hacienda é perfeito para isso. Localizado em uma área rural a 14 km da cidade, oferece uma experiência de isolamento em chalés rústicos, com foco em paisagem e boa comida, ideal para uma viagem a dois."
+  },
+  {
+    "instrucao": "O que é o Hotel Colline de France?",
+    "resposta": "É um hotel 4 estrelas em Gramado com uma decoração luxuosa e clássica, em estilo 'rococó', onde os quartos se assemelham a um castelo. É um hotel muito charmoso, voltado para casais, e conta com uma bela piscina coberta."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado parece um castelo?",
+    "resposta": "O Hotel Colline de France é conhecido por sua decoração que remete a um castelo, com um estilo clássico e luxuoso. É uma hospedagem muito procurada por casais."
+  },
+  {
+    "instrucao": "Qual a principal característica do Hotel St Hubertus em Gramado?",
+    "resposta": "A principal característica do Hotel St Hubertus é sua localização privilegiada e romântica, bem em frente ao famoso Lago Negro, um dos cartões postais de Gramado."
+  },
+  {
+    "instrucao": "Qual hotel fica em frente ao Lago Negro?",
+    "resposta": "O Hotel St Hubertus, um dos hotéis de charme mais tradicionais e elegantes da cidade, está localizado em frente ao Lago Negro."
+  },
+  {
+    "instrucao": "O que o Hotel Alpestre oferece para casais?",
+    "resposta": "O Hotel Alpestre tem pacotes específicos para casais e luas de mel. As opções podem incluir desde espumante e flores no quarto até massagens, terapias do Kur SPA, fondue no apartamento e cestas de piquenique para aproveitar o jardim."
+  },
+  {
+    "instrucao": "Estou em lua de mel em Gramado. Qual hotel oferece pacotes românticos?",
+    "resposta": "O Hotel Alpestre é uma ótima escolha, pois oferece pacotes românticos completos, com opções que vão desde decoração especial no quarto até experiências gastronômicas como fondue e cestas de piquenique."
+  },
+  {
+    "instrucao": "Qual é a cidade considerada a Capital Brasileira do Espumante?",
+    "resposta": "A cidade de Garibaldi é oficialmente reconhecida como a Capital Brasileira do Espumante, com uma rota turística dedicada à bebida e abrigando vinícolas históricas como a Peterlongo e a Chandon."
+  },
+  {
+    "instrucao": "Onde fica a Capital Brasileira do Espumante?",
+    "resposta": "Fica na Serra Gaúcha. A cidade de Garibaldi detém o título de Capital Brasileira do Espumante, sendo um destino imperdível para os amantes da bebida."
+  },
+  {
+    "instrucao": "Qual vinícola em Farroupilha é famosa por seu Moscatel premiado?",
+    "resposta": "A Casa Perini, em Farroupilha, é um ícone na produção de vinhos Moscatel. Seu espumante dessa variedade é premiado e uma degustação obrigatória para quem visita a vinícola."
+  },
+  {
+    "instrucao": "Onde posso provar um bom espumante Moscatel na Serra Gaúcha?",
+    "resposta": "A cidade de Farroupilha é a capital do Moscatel, e a vinícola Casa Perini é a referência. O espumante Moscatel deles já recebeu diversos prêmios e é altamente recomendado."
+  },
+  {
+    "instrucao": "Que tipo de experiência a Videiras Carraro oferece?",
+    "resposta": "A Videiras Carraro, no Vale dos Vinhedos, oferece uma experiência de vinícola familiar e rústica. Por ser uma agroindústria familiar, eles proporcionam um ambiente relaxante com degustações, piqueniques e até a experiência da Sabrage (abrir a garrafa com um sabre)."
+  },
+  {
+    "instrucao": "Estou procurando uma vinícola pequena e familiar no Vale dos Vinhedos, qual visitar?",
+    "resposta": "A Videiras Carraro é a escolha ideal. É uma agroindústria familiar onde toda a produção é local. Eles oferecem um espaço acolhedor com mesas e redes para relaxar, além de degustações e piqueniques."
+  },
+  {
+    "instrucao": "Qual a principal atração de Farroupilha, além das vinícolas?",
+    "resposta": "Além das vinícolas como a Casa Perini, uma grande atração natural de Farroupilha é a Cascata Salto Ventoso, um parque conhecido por sua cachoeira com uma passarela por trás da queda d'água."
+  },
+  {
+    "instrucao": "Estou em Farroupilha, o que posso fazer além de visitar vinícolas?",
+    "resposta": "Você pode visitar a Cascata Salto Ventoso, um belo parque natural onde é possível caminhar por trás da cortina d'água da cachoeira. É uma ótima combinação com uma visita à Cervejaria Blauth Bier, que também fica na cidade."
+  },
+  {
+    "instrucao": "O que é o Hotel & SPA do Vinho?",
+    "resposta": "É um dos hotéis mais famosos e luxuosos da rota do Vale dos Vinhedos. Ele pertence ao complexo da Casa Valduga e oferece uma experiência completa de enoturismo com hospedagem de alto padrão e tratamentos de spa."
+  },
+  {
+    "instrucao": "Qual a melhor opção de hospedagem de luxo no Vale dos Vinhedos?",
+    "resposta": "O Hotel & SPA do Vinho é a referência em hospedagem de luxo na região. Ele faz parte da Casa Valduga e é ideal para quem busca uma experiência completa de enoturismo, conforto e bem-estar."
+  },
+  {
+    "instrucao": "Que tipo de experiência diferente a Cave do Sol oferece?",
+    "resposta": "A Cave do Sol, uma vinícola moderna no Vale dos Vinhedos, oferece passeios que fogem do comum, como aulas de yoga com degustação de espumantes e também experiências dedicadas para crianças."
+  },
+  {
+    "instrucao": "Existe alguma vinícola que ofereça aula de yoga?",
+    "resposta": "Sim, a Cave do Sol, no Vale dos Vinhedos, é conhecida por suas experiências diferenciadas, que incluem aulas de yoga combinadas com degustação de espumantes."
+  },
+  {
+    "instrucao": "Onde fica o Parador e que tipo de hotel ele é?",
+    "resposta": "O Parador fica em Cambará do Sul. É um hotel de luxo no estilo 'glamping', com acomodações em barracas de luxo. Ele faz parte da coleção Casa Hotéis e tem um renomado restaurante, o Alma RS."
+  },
+  {
+    "instrucao": "Estou em Cambará do Sul e busco uma hospedagem de luxo e diferente. Qual a sugestão?",
+    "resposta": "A sugestão é o Parador, um hotel de 'glamping' (acampamento com glamour) que oferece barracas de luxo, alta gastronomia no restaurante Alma RS e experiências como cavalgadas e piqueniques."
+  },
+  {
+    "instrucao": "O que é a Rota Cantinas Históricas?",
+    "resposta": "É um roteiro em Bento Gonçalves, também conhecido como Linha Faria Lemos e Vale Aurora. É reconhecido por ter uma das paisagens de vinhedos mais bonitas da região e abriga vinícolas como Estrelas do Brasil e Cristofoli."
+  },
+  {
+    "instrucao": "Quais vinícolas fazem parte da Rota Cantinas Históricas?",
+    "resposta": "Alguns dos destaques da Rota Cantinas Históricas em Bento Gonçalves são a vinícola Estrelas do Brasil, conhecida por seus espumantes, a Vinícola Cristofoli, que oferece almoço harmonizado, e o Parque Dal Pizzol."
+  },
+  {
+    "instrucao": "Descreva o Mundo de Chocolate em Gramado.",
+    "resposta": "O Mundo de Chocolate é um parque temático na Av. Borges de Medeiros, em Gramado. Ele possui mais de 200 esculturas feitas inteiramente de chocolate maciço, incluindo réplicas de monumentos famosos como a Torre Eiffel e o Cristo Redentor."
+  },
+  {
+    "instrucao": "Onde posso ver esculturas feitas de chocolate em Gramado?",
+    "resposta": "Você pode visitar o parque temático Mundo de Chocolate, que exibe mais de 200 peças esculpidas em chocolate, recriando monumentos conhecidos mundialmente."
+  },
+  {
+    "instrucao": "O que é o salame de chocolate da Planalto?",
+    "resposta": "É um dos produtos de destaque da Chocolate Caseiro Planalto em Gramado. É feito com massa italiana, amêndoas, avelãs e coberto com chocolate amargo."
+  },
+  {
+    "instrucao": "Qual um produto de chocolate diferente para provar em Gramado?",
+    "resposta": "A Chocolate Caseiro Planalto oferece um produto diferenciado chamado salame de chocolate, que combina massa italiana, nozes e uma cobertura de chocolate amargo."
+  },
+  {
+    "instrucao": "Qual o diferencial da rua Buarque de Macedo em Garibaldi?",
+    "resposta": "É uma das vias mais antigas do estado e foi totalmente revitalizada, mantendo suas fachadas centenárias, mas com fiação e cabeamentos subterrâneos, o que a torna muito charmosa e fotogênica."
+  },
+  {
+    "instrucao": "Qual rua em Garibaldi foi revitalizada e é ideal para um passeio a pé?",
+    "resposta": "A rua Buarque de Macedo é o coração do centro histórico de Garibaldi. Ela foi revitalizada com fiação subterrânea e calçadas floridas, sendo perfeita para uma caminhada para apreciar a arquitetura histórica."
+  },
+  {
+    "instrucao": "Quando ocorre o Festival de Cinema de Gramado?",
+    "resposta": "O Festival de Cinema de Gramado, um dos eventos mais importantes da cidade, acontece durante a Temporada de Inverno, geralmente nos meses de junho, julho ou agosto."
+  },
+  {
+    "instrucao": "Que grande evento acontece em Gramado durante o inverno?",
+    "resposta": "Além do frio intenso, o inverno em Gramado é marcado pela realização do famoso Festival de Cinema, que atrai muitos visitantes para a cidade."
+  },
+  {
+    "instrucao": "O que é o roteiro PASSADAS em Garibaldi?",
+    "resposta": "PASSADAS é o nome do roteiro a pé pelo centro histórico de Garibaldi. Ele é bem sinalizado com placas em frente a cada casa, capela e prédio histórico, contando um pouco sobre sua história e importância."
+  },
+  {
+    "instrucao": "Como posso aprender sobre a história dos prédios em Garibaldi?",
+    "resposta": "Você pode seguir o roteiro 'PASSADAS'. É um circuito a pé pelo centro histórico com placas informativas em frente a cada construção, explicando sua origem e história."
+  },
+  {
+    "instrucao": "Posso levar meu pet para o Garden Park Gramado?",
+    "resposta": "Sim, o Garden Park Gramado é um local pet friendly, então você pode levar seu animal de estimação para aproveitar o passeio ao ar livre."
+  },
+  {
+    "instrucao": "O Garden Park Gramado aceita animais?",
+    "resposta": "Sim, o parque aceita pets. Além disso, você também pode levar seu chimarrão para curtir o dia nos jardins."
+  },
+  {
+    "instrucao": "Onde fica a Casa do Tomate?",
+    "resposta": "A Casa do Tomate é uma das atrações do roteiro Caminhos de Pedra, em Bento Gonçalves. É um local dedicado à história e ao processamento do tomate, um produto importante para os imigrantes italianos."
+  },
+  {
+    "instrucao": "Qual atração no roteiro Caminhos de Pedra é sobre um fruto?",
+    "resposta": "A Casa do Tomate é uma das principais paradas do roteiro Caminhos de Pedra, onde se pode aprender sobre o cultivo e a produção de derivados do tomate."
+  },
+  {
+    "instrucao": "Para que perfil de turista a vinícola Marco Luigi é recomendada?",
+    "resposta": "A Marco Luigi é recomendada para quem gosta de fazer fotos com visuais incríveis. Localizada em uma parte alta do Vale dos Vinhedos, a vinícola é muito bonita e oferece vistas espetaculares, sendo um destino popular para eventos."
+  },
+  {
+    "instrucao": "Qual vinícola no Vale dos Vinhedos é ideal para tirar boas fotos?",
+    "resposta": "A Vinícola Marco Luigi é uma ótima escolha. Por estar em uma região alta, ela proporciona vistas panorâmicas lindas, perfeitas para registrar a viagem no Instagram."
+  },
+  {
+    "instrucao": "O que é a Vinícola Don Giovanni além de uma vinícola?",
+    "resposta": "Além de ser uma vinícola em Pinto Bandeira, a Don Giovanni é também uma charmosa pousada com 8 quartos em um casarão de 1930 e uma cabana privativa. Ela também conta com o restaurante Nature Vinho & Gastronomia."
+  },
+  {
+    "instrucao": "Quero me hospedar em uma vinícola em Pinto Bandeira. Qual a sugestão?",
+    "resposta": "A Vinícola Don Giovanni é uma excelente opção, pois funciona como pousada, com quartos em um casarão histórico, e ainda oferece alta gastronomia em seu restaurante."
+  },
+  {
+    "instrucao": "O que é a Rota dos Espumantes?",
+    "resposta": "A Rota dos Espumantes é um roteiro turístico oferecido em Garibaldi, a Capital Brasileira do Espumante. Ele inclui visitas a diversas vinícolas da cidade para degustar e comprar a bebida, como a Peterlongo e a Chandon."
+  },
+  {
+    "instrucao": "Qual roteiro turístico devo fazer em Garibaldi?",
+    "resposta": "Em Garibaldi, o principal roteiro é a 'ROTA DOS ESPUMANTES', que te levará para conhecer as vinícolas que são o orgulho da cidade e a razão do seu título de capital da bebida."
+  },
+  {
+    "instrucao": "Qual a principal característica do Hotel Varanda das Bromélias?",
+    "resposta": "O principal diferencial do Hotel Varanda das Bromélias, em Gramado, é servir um dos melhores cafés da manhã da cidade. Além disso, o serviço vai até o meio-dia, o que é ótimo para quem gosta de acordar mais tarde."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado tem o café da manhã famoso e servido até tarde?",
+    "resposta": "O Hotel Varanda das Bromélias é conhecido por seu excelente café da manhã, que, para a conveniência dos hóspedes, é servido até o meio-dia."
+  },
+  {
+    "instrucao": "O que é a Trilha do Rio no Cânion Itaimbezinho?",
+    "resposta": "A Trilha do Rio é a trilha que passa pela parte de baixo do Cânion Itaimbezinho. Seu acesso é pela cidade de Praia Grande, em Santa Catarina, e é considerada uma trilha de maior dificuldade, indicada para aventureiros."
+  },
+  {
+    "instrucao": "Qual a trilha mais difícil no Cânion Itaimbezinho?",
+    "resposta": "A Trilha do Rio, que tem entrada por Praia Grande (SC), é considerada a mais difícil, pois percorre a parte inferior do cânion, sendo recomendada para pessoas com mais experiência em trilhas."
+  },
+  {
+    "instrucao": "Qual o grande diferencial do Hotel St Hubertus em Gramado?",
+    "resposta": "O principal diferencial do Hotel St Hubertus é sua localização única e romântica, situado em frente ao Lago Negro, um dos pontos mais famosos e bonitos de Gramado."
+  },
+  {
+    "instrucao": "Quero me hospedar em um hotel com vista para o Lago Negro. Qual a recomendação?",
+    "resposta": "A recomendação ideal é o Hotel St Hubertus, um dos hotéis de charme mais tradicionais de Gramado, que fica em uma localização privilegiada em frente ao Lago Negro."
+  },
+  {
+    "instrucao": "O que o Hotel Casa da Montanha oferece para casais?",
+    "resposta": "O Hotel Casa da Montanha oferece três pacotes de 'cenários românticos' para casais, que podem incluir decoração especial, jantares românticos e mimos personalizados para a estadia."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado tem uma decoração estilo country inglês e lareira?",
+    "resposta": "O Hotel Casa da Montanha, localizado na Av. Borges de Medeiros, possui uma decoração no estilo country inglês e uma aconchegante sala de estar com lareira para os hóspedes."
+  },
+  {
+    "instrucao": "Qual a melhor opção de transporte para chegar em Gramado se eu não gosto de estradas com muitas curvas?",
+    "resposta": "Nesse caso, o trajeto mais indicado é sair da BR 116 e pegar a RS 239 e depois a RS 115. É um caminho mais rápido e em grande parte em linha reta, ao contrário da Rota Romântica, que é cheia de curvas."
+  },
+  {
+    "instrucao": "Qual a desvantagem do caminho mais rápido para Gramado pela RS 239?",
+    "resposta": "Apesar de ser mais rápido e reto, o trajeto pela RS 239 e RS 115 possui dois pedágios e muitos controladores de velocidade (pardais). Além disso, não é tão charmoso quanto a Rota Romântica."
+  },
+  {
+    "instrucao": "Qual a principal característica da Pousada Rugero em Nova Pádua?",
+    "resposta": "A principal característica da Pousada Rugero é sua localização privilegiada, ao lado do Belvedere Sonda, que proporciona uma vista panorâmica espetacular do Vale do Rio das Antas."
+  },
+  {
+    "instrucao": "Onde devo me hospedar para ter a melhor vista do Vale do Rio das Antas em Nova Pádua?",
+    "resposta": "A Pousada Rugero é a escolha perfeita. Ela fica ao lado do Belvedere Sonda e oferece uma vista panorâmica deslumbrante do Vale do Rio das Antas."
+  },
+  {
+    "instrucao": "O que torna a Vinícola Família Geisse um destaque em Pinto Bandeira?",
+    "resposta": "A Família Geisse é uma vinícola emblemática em Pinto Bandeira, o terroir dos espumantes. Ela é famosa por produzir espumantes de altíssima qualidade e por seu 'garden', um espaço concorridíssimo para degustações ao ar livre."
+  },
+  {
+    "instrucao": "Qual vinícola em Pinto Bandeira oferece a experiência 'Geisse Terroir Experience'?",
+    "resposta": "A própria vinícola Família Geisse oferece essa experiência, que consiste em uma mini-aventura pela propriedade para conhecer seu terroir único e seus recantos, com paradas para degustação de espumantes."
+  },
+  {
+    "instrucao": "O que é a Cerveja Leopoldina?",
+    "resposta": "A Cerveja Leopoldina é uma marca de cerveja produzida pela empresa Valduga. É possível fazer um tour e uma degustação na Domno, em Garibaldi, que fica na rodovia BR 470."
+  },
+  {
+    "instrucao": "Onde posso degustar as cervejas da marca Leopoldina?",
+    "resposta": "Você pode fazer uma degustação da Cerveja Leopoldina, que é da empresa Valduga, na Domno, uma vinícola e cervejaria localizada na BR 470, em Garibaldi."
+  },
+  {
+    "instrucao": "Qual o hotel mais famoso do Vale dos Vinhedos?",
+    "resposta": "O Hotel & SPA do Vinho é um dos mais famosos e luxuosos da rota do Vale dos Vinhedos. Ele faz parte do complexo da Casa Valduga e oferece uma experiência completa de enoturismo e bem-estar."
+  },
+  {
+    "instrucao": "Se eu quiser uma hospedagem de luxo com spa no Vale dos Vinhedos, qual a melhor opção?",
+    "resposta": "A melhor opção é o Hotel & SPA do Vinho, que é a referência em hospedagem de luxo na região e oferece tratamentos de spa, além de fazer parte do renomado complexo da Casa Valduga."
+  },
+  {
+    "instrucao": "Quais as principais atrações do roteiro Caminhos de Pedra?",
+    "resposta": "As principais atrações são as casas antigas de pedra, como a Casa do Tomate, a Casa da Tecelagem e a Casa da Erva-Mate. Há também a Casa da Ovelha, a Vinícola Salvati & Sirena e diversos restaurantes como o Casa Vanni."
+  },
+  {
+    "instrucao": "O roteiro Caminhos de Pedra tem vinícolas?",
+    "resposta": "Sim, além das casas históricas, o roteiro Caminhos de Pedra conta com vinícolas como a Vinícola Salvati & Sirena e a Lovara Vinhas e Vinho."
+  },
+  {
+    "instrucao": "O que a Prawer Chocolates oferece aos visitantes?",
+    "resposta": "A Prawer, por ser a fábrica pioneira de chocolate em Gramado, oferece aos turistas uma parada para compras combinada com a visitação à fábrica, onde é possível conhecer o processo de produção."
+  },
+  {
+    "instrucao": "Quero visitar a primeira fábrica de chocolate de Gramado. Qual é?",
+    "resposta": "A primeira fábrica de chocolate de Gramado é a Prawer. Você pode visitar a loja deles na Av. das Hortênsias, que inclui uma área de visitação à produção."
+  },
+  {
+    "instrucao": "Qual o diferencial da vinícola Casa Valduga no enoturismo?",
+    "resposta": "A Casa Valduga é o maior complexo de enoturismo do Vale dos Vinhedos. Ela oferece não apenas a vinícola para visitação, mas também o restaurante Maria Valduga, um wine bar e uma pousada, proporcionando uma experiência completa."
+  },
+  {
+    "instrucao": "Estou planejando uma viagem romântica e gostaria de ficar em uma vinícola. A Casa Valduga é uma boa opção?",
+    "resposta": "Sim, é uma excelente opção. A Casa Valduga é um grande complexo que inclui uma pousada, sendo ideal para uma viagem romântica no coração do Vale dos Vinhedos, com acesso a restaurante e degustações."
+  },
+  {
+    "instrucao": "O que é o 'Circuito das Águas' em Cambará do Sul?",
+    "resposta": "É um passeio, geralmente oferecido por empresas locais em veículos 4x4, que percorre diversas cascatas e fazendas nas cidades vizinhas a Cambará do Sul, como a Cascata dos Venâncios e o Passo da Ilha."
+  },
+  {
+    "instrucao": "É possível tomar banho de cachoeira em Cambará do Sul?",
+    "resposta": "Sim, durante o passeio 'Circuito das Águas', que visita várias cascatas, é possível tomar banho, mas apenas nos meses mais quentes do verão."
+  },
+  {
+    "instrucao": "Qual é a cidade considerada o berço da cultura italiana na Serra Gaúcha?",
+    "resposta": "A cidade de Flores da Cunha é considerada o berço da cultura italiana na Serra Gaúcha, além de ser o maior município produtor de uvas e vinhos do Brasil."
+  },
+  {
+    "instrucao": "Onde antigamente se chamava Nova Trento?",
+    "resposta": "A cidade de Flores da Cunha, hoje conhecida como a maior produtora de vinhos do Brasil, antigamente era chamada de Nova Trento."
+  },
+  {
+    "instrucao": "O que é o Ateliê Bez Batti?",
+    "resposta": "O Ateliê Bez Batti é uma das atrações do roteiro Caminhos de Pedra, em Bento Gonçalves. É o espaço de trabalho do artista Bez Batti, onde é possível conhecer suas esculturas feitas em pedra basalto."
+  },
+  {
+    "instrucao": "Onde posso ver arte em pedra no roteiro Caminhos de Pedra?",
+    "resposta": "Você pode visitar o Ateliê Bez Batti, que faz parte do roteiro Caminhos de Pedra e exibe o trabalho do artista com esculturas em basalto."
+  },
+  {
+    "instrucao": "Qual a altitude do Cânion Itaimbezinho?",
+    "resposta": "O Cânion Itaimbezinho possui paredões com cerca de 700 metros de altura e está localizado no Parque Nacional de Aparados da Serra, em Cambará do Sul."
+  },
+  {
+    "instrucao": "Onde fica o Cânion Itaimbezinho?",
+    "resposta": "Ele está situado no Parque Nacional de Aparados da Serra, a 18 km do centro de Cambará do Sul. É o cânion mais visitado da região."
+  },
+  {
+    "instrucao": "Que tipo de hospedagem é o Parador em Cambará do Sul?",
+    "resposta": "O Parador é um hotel de luxo no estilo 'glamping', que oferece acomodações em barracas de luxo. Ele conta com um restaurante renomado, o Alma RS, e oferece experiências como cavalgadas e piqueniques."
+  },
+  {
+    "instrucao": "Onde posso me hospedar em uma 'barraca de luxo' perto dos cânions?",
+    "resposta": "Em Cambará do Sul, o Hotel Parador oferece exatamente essa experiência de 'glamping', com hospedagem em barracas de luxo, alta gastronomia e atividades de contemplação da natureza."
+  },
+  {
+    "instrucao": "Descreva as trilhas do Cânion Itaimbezinho com entrada por Cambará do Sul.",
+    "resposta": "Com entrada por Cambará do Sul, por cima do cânion, existem duas trilhas principais: a Trilha do Vértice, que é a mais curta e acessível, e a Trilha do Cotovelo."
+  },
+  {
+    "instrucao": "Qual a trilha mais fácil para se fazer no Cânion Itaimbezinho?",
+    "resposta": "A Trilha do Vértice é a mais acessível e curta das trilhas que têm entrada por Cambará do Sul, sendo ideal para a maioria dos visitantes."
+  },
+  {
+    "instrucao": "Onde fica a Casa Bucco e pelo que ela é conhecida?",
+    "resposta": "A Casa Bucco é uma das atrações da Rota Vale do Rio das Antas, em Bento Gonçalves. Ela é conhecida por sua cachaça de qualidade."
+  },
+  {
+    "instrucao": "Onde posso degustar cachaça artesanal na região de Bento Gonçalves?",
+    "resposta": "Na Rota Vale do Rio das Antas, você pode visitar a Casa Bucco, que é reconhecida pela produção de cachaça de qualidade."
+  },
+  {
+    "instrucao": "Que tipo de experiência a vinícola Cristofoli oferece?",
+    "resposta": "A Vinícola Cristofoli, localizada na Rota Cantinas Históricas, oferece uma experiência enogastronômica completa, com um tour e um almoço harmonizado que devem ser agendados com antecedência."
+  },
+  {
+    "instrucao": "Quero almoçar em uma vinícola na Rota Cantinas Históricas. Qual você indica?",
+    "resposta": "A Vinícola Cristofoli é uma ótima opção, pois oferece um almoço harmonizado mediante agendamento, proporcionando uma experiência completa de vinho e gastronomia."
+  },
+  {
+    "instrucao": "Qual a principal característica do Vale dos Vinhedos?",
+    "resposta": "O Vale dos Vinhedos é o principal roteiro de enoturismo do Brasil. Sua principal característica é concentrar um grande número de vinícolas de respeito, como Miolo, Valduga e Pizzato, além de hotéis e restaurantes."
+  },
+  {
+    "instrucao": "Se eu sou um amante de vinhos, qual o roteiro imperdível na Serra Gaúcha?",
+    "resposta": "Para os amantes de vinhos, o roteiro imperdível é o Vale dos Vinhedos. É o coração do enoturismo no Brasil, abrigando algumas das vinícolas mais importantes e renomadas do país."
+  },
+  {
+    "instrucao": "Qual a altitude do Cânion Fortaleza?",
+    "resposta": "O Cânion Fortaleza tem uma altitude de 1.240 metros acima do nível do mar, sendo um dos pontos mais altos da região em Cambará do Sul."
+  },
+  {
+    "instrucao": "O Cânion Fortaleza é mais alto que o Itaimbezinho?",
+    "resposta": "Sim, o Cânion Fortaleza, com 1.240 metros de altitude, é significativamente mais alto que o Itaimbezinho, cujos paredões têm cerca de 700 metros de altura."
+  },
+  {
+    "instrucao": "O que é o Salto Ventoso?",
+    "resposta": "O Salto Ventoso é uma cachoeira localizada em um parque na cidade de Farroupilha. Seu grande diferencial é uma passarela que permite aos visitantes caminharem por trás da cortina d'água."
+  },
+  {
+    "instrucao": "Onde posso caminhar atrás de uma cachoeira na Serra Gaúcha?",
+    "resposta": "Você pode ter essa experiência única na Cascata Salto Ventoso, em Farroupilha. O parque possui uma passarela que passa por dentro de uma gruta atrás da queda d'água."
+  },
+  {
+    "instrucao": "A Vinícola Don Giovanni é apenas uma vinícola?",
+    "resposta": "Não, a Don Giovanni, em Pinto Bandeira, é mais do que uma vinícola. Ela também funciona como uma charmosa pousada, com quartos em um casarão de 1930, e possui um restaurante chamado Nature Vinho & Gastronomia."
+  },
+  {
+    "instrucao": "Qual vinícola em Pinto Bandeira oferece hospedagem e restaurante?",
+    "resposta": "A Vinícola Don Giovanni é a escolha perfeita. Além de produzir vinhos, ela oferece hospedagem em sua pousada e alta gastronomia no Nature Vinho & Gastronomia."
+  },
+  {
+    "instrucao": "O que é a Festa da Colônia em Gramado?",
+    "resposta": "A Festa da Colônia é um evento que acontece em maio em Gramado para celebrar as tradições dos primeiros moradores da região, principalmente os imigrantes italianos e alemães. É uma ótima oportunidade para provar a gastronomia típica e conhecer o artesanato local."
+  },
+  {
+    "instrucao": "Em que mês posso participar da Festa da Colônia em Gramado?",
+    "resposta": "A Festa da Colônia, que celebra as tradições dos colonizadores, acontece durante o mês de maio em Gramado."
+  },
+  {
+    "instrucao": "O que a Pousada Rugero oferece de especial aos hóspedes?",
+    "resposta": "A grande vantagem da Pousada Rugero, em Nova Pádua, é sua vista panorâmica espetacular do Vale do Rio das Antas, por estar localizada ao lado do Belvedere Sonda."
+  },
+  {
+    "instrucao": "Onde posso encontrar uma pousada com vista para o Vale do Rio das Antas?",
+    "resposta": "A Pousada Rugero em Nova Pádua é a recomendação ideal, pois fica ao lado do Belvedere Sonda, proporcionando uma vista deslumbrante do vale."
+  },
+  {
+    "instrucao": "Qual o diferencial da Vinícola Miolo para um iniciante no mundo dos vinhos?",
+    "resposta": "A Miolo é ideal para iniciantes porque, sendo uma das pioneiras no enoturismo, oferece passeios muito completos que passam por todas as etapas de produção do vinho, desde os vinhedos até a degustação. Além disso, tem o Wine Garden, que é um espaço mais descontraído."
+  },
+  {
+    "instrucao": "Estou começando a me interessar por vinhos, qual vinícola no Vale dos Vinhedos tem o melhor tour para iniciantes?",
+    "resposta": "A Vinícola Miolo é uma excelente escolha. Seus passeios são muito didáticos e completos, explicando todo o processo de produção. O ambiente do Wine Garden também é ótimo para quem está começando."
+  },
+  {
+    "instrucao": "O que a Casa Perini oferece para quem gosta de ciclismo?",
+    "resposta": "A Casa Perini, em Farroupilha, tem uma experiência chamada 'Bike Tour Experience'. É um passeio de bicicleta que percorre os vinhedos da propriedade e inclui uma parada para um piquenique com vinho."
+  },
+  {
+    "instrucao": "Posso andar de bicicleta nos vinhedos da Casa Perini?",
+    "resposta": "Sim, a Casa Perini oferece o 'Bike Tour Experience', um passeio de bicicleta organizado entre os vinhedos, que termina com uma cesta de piquenique."
+  },
+  {
+    "instrucao": "Qual a principal característica do Hotel Casa da Montanha em Gramado?",
+    "resposta": "O Hotel Casa da Montanha se destaca por sua localização privilegiada na Av. Borges de Medeiros, perto de tudo, e pela sua gastronomia impecável. A decoração no estilo country inglês e a sala com lareira também são grandes atrativos."
+  },
+  {
+    "instrucao": "Qual hotel no centro de Gramado é conhecido pela boa comida?",
+    "resposta": "O Hotel Casa da Montanha é uma ótima escolha. Fica em plena Av. Borges de Medeiros e é famoso pela gastronomia de alta qualidade de seu restaurante."
+  },
+  {
+    "instrucao": "Onde fica a Adega Dom Camilo e o que ela oferece?",
+    "resposta": "A Adega Dom Camilo fica em Nova Pádua, a poucos metros da Pousada Rugero. Ela oferece um espaço ao ar livre para piqueniques com uma vista panorâmica deslumbrante do Vale do Rio das Antas."
+  },
+  {
+    "instrucao": "Quero fazer um piquenique com vista para o Vale do Rio das Antas. Onde posso ir?",
+    "resposta": "A Adega Dom Camilo em Nova Pádua é o lugar perfeito para isso. Ela tem um espaço ao ar livre preparado para piqueniques com uma vista espetacular do vale."
+  },
+  {
+    "instrucao": "A tirolesa no Cânion Fortaleza está funcionando?",
+    "resposta": "A tirolesa, considerada a mais alta das Américas, foi temporariamente fechada devido à enchente de maio de 2024. É recomendado verificar as atualizações da empresa Urbia Parques para saber sobre a reabertura."
+  },
+  {
+    "instrucao": "Posso usar a tirolesa do Cânion Fortaleza atualmente?",
+    "resposta": "Atualmente, a tirolesa está temporariamente fechada como consequência da enchente de maio de 2024. Não há previsão de reabertura, então o ideal é consultar a administradora do parque, a Urbia Parques."
+  },
+  {
+    "instrucao": "Qual a proposta da Fabulosa Loja de Chocolates Caracol?",
+    "resposta": "A proposta da Fabulosa Loja de Chocolates Caracol é ser uma loja de percurso, onde o diferencial é a experiência lúdica. Os visitantes podem interagir com cenários e personagens, como o soldado Chocolito, vivendo sua própria fábula."
+  },
+  {
+    "instrucao": "Qual loja de chocolates em Gramado é mais interativa e lúdica?",
+    "resposta": "A Fabulosa Loja de Chocolates Caracol é a mais interativa. Ela foi projetada como um percurso com cenários e personagens para que os visitantes possam participar de uma experiência lúdica."
+  },
+  {
+    "instrucao": "O que é a Cooperativa Garibaldi?",
+    "resposta": "É uma importante vinícola de Garibaldi, com mais de 80 anos de história, localizada no centro da cidade. Ela oferece visitação todos os dias e experiências especiais, como degustação às cegas e a 'Taça e Trufa', que precisam ser agendadas."
+  },
+  {
+    "instrucao": "Quero fazer uma degustação às cegas em Garibaldi. Onde posso fazer?",
+    "resposta": "A Cooperativa Garibaldi oferece a experiência de degustação às cegas, mas é necessário agendamento prévio. É uma forma diferente e interessante de provar os vinhos e espumantes da vinícola."
+  },
+  {
+    "instrucao": "Que tipo de comida encontro no restaurante da vinícola Luiz Argenta?",
+    "resposta": "O documento menciona que a vinícola Luiz Argenta em Flores da Cunha possui um restaurante, mas não especifica o tipo de culinária servida."
+  },
+  {
+    "instrucao": "Como é a experiência de hospedagem na Videiras Carraro?",
+    "resposta": "O documento não menciona que a Videiras Carraro oferece hospedagem. Ele a descreve como uma agroindústria familiar no Vale dos Vinhedos que oferece um espaço para relaxar, degustações e piqueniques."
+  },
+  {
+    "instrucao": "Qual a melhor época para ver neve em Gramado?",
+    "resposta": "A melhor época para ter chance de ver neve é durante o inverno, nos meses de junho, julho e agosto, quando as temperaturas podem chegar perto de 0°C. No entanto, o fenômeno não é garantido."
+  },
+  {
+    "instrucao": "O Parque Dal Pizzol fica em qual roteiro?",
+    "resposta": "O Parque Dal Pizzol, que combina vinícola e uma grande área verde, é uma das atrações da Rota Cantinas Históricas, também conhecida como Linha Faria Lemos e Vale Aurora, em Bento Gonçalves."
+  },
+  {
+    "instrucao": "Onde fica a vinícola Estrelas do Brasil?",
+    "resposta": "A vinícola Estrelas do Brasil, conhecida por seus espumantes e pela bela paisagem, é um dos pontos altos da Rota Cantinas Históricas em Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual o período da Vindima na Serra Gaúcha?",
+    "resposta": "A Vindima, que é a festa da colheita da uva, acontece durante o verão, geralmente de janeiro até o início de março. É um período com muitas programações especiais para os turistas."
+  },
+  {
+    "instrucao": "O que é a Vindima?",
+    "resposta": "É a temporada da colheita da uva na Região da Uva e do Vinho. Acontece no verão, de janeiro a março, e é um período festivo com muitas atividades especiais para os visitantes, como a pisa da uva."
+  },
+  {
+    "instrucao": "Qual o nome do restaurante do Hotel Casacurta?",
+    "resposta": "O restaurante do Hotel Casacurta em Garibaldi chama-se Hostaria Casacurta e é conhecido por sua excelente gastronomia."
+  },
+  {
+    "instrucao": "Qual a principal atração de Nova Pádua?",
+    "resposta": "Nova Pádua, o 'Pequeno Paraíso Italiano', se destaca pela vista panorâmica do Vale do Rio das Antas, que pode ser apreciada a partir de locais como o Belvedere Sonda e a Adega Dom Camilo."
+  },
+  {
+    "instrucao": "Quantos dias são recomendados para visitar Bento Gonçalves e seus arredores?",
+    "resposta": "Recomenda-se um mínimo de três dias para explorar com calma as principais rotas turísticas de Bento Gonçalves, como o Vale dos Vinhedos e Caminhos de Pedra, e aproveitar a gastronomia e os vinhos."
+  },
+  {
+    "instrucao": "O que é o Parque Casa da Ovelha?",
+    "resposta": "O Parque Casa da Ovelha é uma das atrações do roteiro Caminhos de Pedra, em Bento Gonçalves. É uma ótima opção de passeio, especialmente para quem viaja com crianças."
+  },
+  {
+    "instrucao": "A Casa da Ovelha fica em qual cidade?",
+    "resposta": "A Casa da Ovelha está localizada no roteiro Caminhos de Pedra, no município de Bento Gonçalves."
+  },
+  {
+    "instrucao": "Que tipo de veículo é recomendado para visitar os cânions em Cambará do Sul?",
+    "resposta": "Como o acesso tanto para o Cânion Fortaleza quanto para o Itaimbezinho é por estradas de chão com muitas pedras, o ideal é estar em um carro apropriado para terrenos difíceis ou contratar um guia local com veículo 4x4."
+  },
+  {
+    "instrucao": "A que horas o Garden Park em Gramado fecha?",
+    "resposta": "O Garden Park em Gramado abre diariamente e funciona das 9h às 17h."
+  },
+  {
+    "instrucao": "Crianças pagam para entrar no Mátria Parque das Flores?",
+    "resposta": "Não, de acordo com os valores de 2022, crianças até 11 anos de idade são isentas de pagamento no Mátria Parque das Flores."
+  },
+  {
+    "instrucao": "Qual é a cidade porta de entrada para os cânions do Rio Grande do Sul?",
+    "resposta": "A cidade de Cambará do Sul é a porta de entrada para visitar os principais cânions da região, como o Itaimbezinho e o Fortaleza."
+  },
+  {
+    "instrucao": "Qual o principal diferencial da Vinícola Peterlongo em Garibaldi?",
+    "resposta": "O grande diferencial histórico e legal da Vinícola Peterlongo é ser a única no Brasil com autorização para usar o termo 'champagne' em seus espumantes, além de ter sido a criadora do primeiro espumante brasileiro em 1913."
+  },
+  {
+    "instrucao": "Se eu quiser provar um espumante que é legalmente um 'champagne' no Brasil, para qual cidade devo ir?",
+    "resposta": "Você deve ir para a cidade de Garibaldi, na Serra Gaúcha, e visitar a Vinícola Peterlongo. É a única no país que possui o direito de usar a denominação 'champagne'."
+  },
+  {
+    "instrucao": "A Vinícola Cristofoli pode chamar seu espumante de 'champagne'?",
+    "resposta": "Não, a única vinícola no Brasil autorizada a usar o termo 'champagne' é a Peterlongo, em Garibaldi. A Vinícola Cristofoli é conhecida por outras experiências, como o almoço harmonizado."
+  },
+  {
+    "instrucao": "Onde fica o Hotel Casacurta e qual sua principal característica?",
+    "resposta": "O Hotel Casacurta é uma famosa opção de hospedagem com charme histórico e excelente enogastronomia, localizado na cidade de Garibaldi."
+  },
+  {
+    "instrucao": "Estou procurando um hotel histórico em Garibaldi, qual a recomendação?",
+    "resposta": "A grande pedida para uma hospedagem com história e charme em Garibaldi é o Hotel Casacurta, que também conta com um renomado restaurante, o Hostaria Casacurta."
+  },
+  {
+    "instrucao": "O Hotel Casacurta fica em Bento Gonçalves?",
+    "resposta": "Não, o Hotel Casacurta está localizado na cidade de Garibaldi, que é vizinha de Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual vinícola em Flores da Cunha é famosa por sua arquitetura moderna?",
+    "resposta": "A vinícola mais famosa de Flores da Cunha por sua arquitetura é a Luiz Argenta. Ela se destaca pelo design moderno de seus espaços, garrafas e até das taças."
+  },
+  {
+    "instrucao": "Quero visitar uma vinícola com design diferenciado na Serra Gaúcha. Qual você indica?",
+    "resposta": "A Vinícola Luiz Argenta, em Flores da Cunha, é a recomendação ideal. Ela é reconhecida por sua arquitetura moderna e pelo cuidado com o design em cada detalhe."
+  },
+  {
+    "instrucao": "A arquitetura da Vinícola Luiz Argenta é clássica ou moderna?",
+    "resposta": "A arquitetura da Vinícola Luiz Argenta é moderna e chama a atenção dos visitantes, sendo um de seus principais diferenciais."
+  },
+  {
+    "instrucao": "Descreva as trilhas do Cânion Itaimbezinho que têm acesso por Cambará do Sul.",
+    "resposta": "Com acesso por Cambará do Sul, o Cânion Itaimbezinho oferece duas trilhas principais na parte de cima: a Trilha do Vértice, que é a mais curta e acessível, e a Trilha do Cotovelo, que é um pouco mais longa."
+  },
+  {
+    "instrucao": "A Trilha do Rio faz parte do Parque Nacional de Aparados da Serra com entrada por Cambará do Sul?",
+    "resposta": "Não. Embora a Trilha do Rio percorra a parte de baixo do Cânion Itaimbezinho, seu acesso é pela cidade de Praia Grande, em Santa Catarina, e é uma trilha considerada de maior dificuldade."
+  },
+  {
+    "instrucao": "Qual a diferença de acesso entre as trilhas do Itaimbezinho e a Trilha do Rio?",
+    "resposta": "As trilhas do Vértice e do Cotovelo, na parte de cima do Cânion Itaimbezinho, têm acesso por Cambará do Sul (RS). Já a Trilha do Rio, na parte de baixo do mesmo cânion, tem seu acesso por Praia Grande (SC)."
+  },
+  {
+    "instrucao": "Qual dos cânions é mais alto, Fortaleza ou Itaimbezinho?",
+    "resposta": "O Cânion Fortaleza é mais alto, com uma altitude de 1.240 metros acima do nível do mar, enquanto os paredões do Itaimbezinho têm cerca de 700 metros de altura."
+  },
+  {
+    "instrucao": "O que significa o nome do Cânion Fortaleza?",
+    "resposta": "O nome 'Fortaleza' se deve ao fato de seus paredões se assemelharem a imponentes muralhas de um forte, uma característica marcante de sua paisagem."
+  },
+  {
+    "instrucao": "Se eu quiser uma experiência de enoturismo com foco em grandes vinícolas, devo ir para Caminhos de Pedra ou Vale dos Vinhedos?",
+    "resposta": "Para uma experiência focada em grandes e renomadas vinícolas, o roteiro ideal é o Vale dos Vinhedos, que é o principal destino de enoturismo do Brasil e abriga vinícolas como Miolo e Casa Valduga."
+  },
+  {
+    "instrucao": "Qual a principal temática do roteiro Caminhos de Pedra?",
+    "resposta": "A principal temática do roteiro Caminhos de Pedra é o resgate histórico e arquitetônico da imigração italiana, com um percurso de 12 km repleto de casas antigas de pedra, cantinas e restaurantes típicos."
+  },
+  {
+    "instrucao": "A Rota Romântica tem mais influência italiana ou alemã?",
+    "resposta": "A Rota Romântica tem uma forte influência da cultura alemã, pois grande parte de seus 14 municípios foi colonizada por imigrantes alemães na primeira metade do século XIX."
+  },
+  {
+    "instrucao": "Onde posso almoçar na Blauth Bier Cervejaria e que tipo de comida eles servem?",
+    "resposta": "Você pode almoçar na Blauth Bier de sexta a domingo. Eles são especializados em comida típica alemã, como Schnitzel e Eisbein, e aos domingos oferecem uma sequência alemã com mais de 15 pratos."
+  },
+  {
+    "instrucao": "A Blauth Bier fica em qual cidade?",
+    "resposta": "A Blauth Bier Cervejaria está situada em uma área rural que pertence ao município de Farroupilha, localizada entre as cidades de Garibaldi e Carlos Barbosa."
+  },
+  {
+    "instrucao": "Qual a especialidade de Pinto Bandeira no mundo dos vinhos?",
+    "resposta": "Pinto Bandeira é considerado o 'terroir do espumante de qualidade'. Sua geografia de altitude e solo de origem vulcânica conferem à região uma Indicação de Procedência (IP) para vinhos, com destaque para os espumantes."
+  },
+  {
+    "instrucao": "Quais vinícolas devo visitar em Pinto Bandeira para provar bons espumantes?",
+    "resposta": "Em Pinto Bandeira, as vinícolas de destaque para provar espumantes de alta qualidade são a Cave Geisse, a Don Giovanni e a Valmarino."
+  },
+  {
+    "instrucao": "O que é o 'glamping' oferecido pelo Hotel Parador em Cambará do Sul?",
+    "resposta": "O 'glamping' do Parador é uma experiência de acampamento com glamour. Em vez de barracas comuns, oferece acomodações de luxo, combinando o contato com a natureza dos cânions com o conforto de um hotel de alto padrão."
+  },
+  {
+    "instrucao": "O restaurante do Hotel Parador é aberto ao público?",
+    "resposta": "Sim, o restaurante do Parador, chamado Alma RS, é aberto ao público e é conhecido por sua excelente gastronomia, sendo uma ótima opção de refeição em Cambará do Sul."
+  },
+  {
+    "instrucao": "Qual a principal diferença entre o Hotel Saint Andrews e o Hotel Colline de France?",
+    "resposta": "Ambos são hotéis de luxo em Gramado. O Saint Andrews se destaca pela exclusividade extrema, com apenas onze suítes e serviço de mordomo. Já o Colline de France se destaca por sua decoração em estilo clássico, onde os quartos remetem a um castelo."
+  },
+  {
+    "instrucao": "Se eu quero me sentir em um castelo em Gramado, qual hotel devo escolher?",
+    "resposta": "O Hotel Colline de France é a escolha perfeita. Seus quartos são decorados em um estilo clássico e luxuoso que remete a um castelo, proporcionando uma experiência única."
+  },
+  {
+    "instrucao": "Qual o hotel mais exclusivo de Gramado?",
+    "resposta": "O Hotel Saint Andrews é o mais exclusivo, com apenas onze suítes, serviço de mordomo e uma vista privilegiada do Vale do Quilombo, oferecendo o mais alto nível de luxo e privacidade."
+  },
+  {
+    "instrucao": "O que é o roteiro de 2 dias sugerido para Flores da Cunha e Nova Pádua?",
+    "resposta": "É um roteiro que combina gastronomia e enoturismo. No primeiro dia, sugere-se almoço na Viapiana e visita à Família Bebber. No segundo, visita à Salvattore, almoço na Escola de Gastronomia da UCS e visita à Luiz Argenta."
+  },
+  {
+    "instrucao": "Onde posso almoçar em um restaurante de uma Escola de Gastronomia na Serra Gaúcha?",
+    "resposta": "No roteiro por Flores da Cunha, uma das sugestões de almoço é no restaurante Dolce Itália, que pertence à Escola de Gastronomia da UCS (Universidade de Caxias do Sul)."
+  },
+  {
+    "instrucao": "O que é o Parque de Aventuras Gasper e onde fica?",
+    "resposta": "O Parque de Aventuras Gasper é a principal atração da rota rural Encantos de Eulália, em Bento Gonçalves. Ele oferece diversas atividades de aventura para os visitantes."
+  },
+  {
+    "instrucao": "Para quem gosta de aventura, qual roteiro é indicado em Bento Gonçalves?",
+    "resposta": "O roteiro rural Encantos de Eulália é o mais indicado, pois sua grande atração é o Parque de Aventuras Gasper."
+  },
+  {
+    "instrucao": "Qual a relação da vinícola Lídio Carraro com a Copa do Mundo?",
+    "resposta": "A vinícola Lídio Carraro, localizada no Vale dos Vinhedos, ganhou fama internacional por ter sido a produtora do vinho oficial da Copa do Mundo de 2014, que foi realizada no Brasil."
+  },
+  {
+    "instrucao": "Qual vinícola do Vale dos Vinhedos produziu o vinho da Copa de 2014?",
+    "resposta": "Foi a vinícola Lídio Carraro, que fica na rota do Vale dos Vinhedos. Ela foi a responsável por produzir o vinho oficial do evento."
+  },
+  {
+    "instrucao": "Como é o passeio de Tim-Tim em Garibaldi?",
+    "resposta": "O Tim-Tim é um caminhão GMC de 1944 que oferece um tour guiado pelo centro histórico de Garibaldi. O passeio acontece aos sábados pela manhã e tem capacidade para 42 pessoas."
+  },
+  {
+    "instrucao": "Qual a forma mais divertida de conhecer o centro histórico de Garibaldi?",
+    "resposta": "Além de caminhar, uma forma divertida é fazer o passeio de 'Tim-Tim', um simpático caminhão antigo que faz um roteiro guiado pela cidade aos sábados."
+  },
+  {
+    "instrucao": "A visita à Chandon em Garibaldi é paga?",
+    "resposta": "Não, as visitas guiadas na vinícola Chandon são gratuitas, o que é um grande diferencial. No entanto, é obrigatório agendar com bastante antecedência pelo site da empresa."
+  },
+  {
+    "instrucao": "Preciso pagar para visitar a Chandon?",
+    "resposta": "A visita guiada na Chandon é gratuita, mas o agendamento prévio pelo site é indispensável para garantir sua vaga."
+  },
+  {
+    "instrucao": "Quando é a melhor época para visitar Gramado se quero clima ameno e menos gente?",
+    "resposta": "Os meses de maio e setembro são ideais. Eles fazem parte da baixa temporada, então a cidade está mais tranquila e com preços melhores, e as temperaturas são amenas, sem o frio intenso do inverno ou o calor do verão."
+  },
+  {
+    "instrucao": "Quero ir para Gramado, mas não gosto de calor nem de frio extremo. Qual a melhor época?",
+    "resposta": "O outono e a primavera são as melhores opções. Especificamente, os meses de maio e setembro oferecem temperaturas amenas e a vantagem de ser baixa temporada, com menos movimento na cidade."
+  },
+  {
+    "instrucao": "O que o Hotel La Hacienda oferece de diferente em termos de decoração?",
+    "resposta": "O diferencial do La Hacienda é sua decoração rústica e autêntica. Os seis chalés são decorados com móveis e utensílios garimpados em demolições de casas de colonos da região, criando um ambiente único."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado tem chalés com decoração garimpada de casas de colonos?",
+    "resposta": "O Hotel La Hacienda, localizado em uma área rural a 14 km de Gramado, tem como característica seus chalés decorados com móveis e peças originais de antigas casas de colonos da região."
+  },
+  {
+    "instrucao": "Onde fica o Hotel St Hubertus?",
+    "resposta": "O Hotel St Hubertus tem uma localização privilegiada em Gramado, situado bem em frente ao Lago Negro."
+  },
+  {
+    "instrucao": "Qual hotel de charme em Gramado fica em frente ao Lago Negro?",
+    "resposta": "O St Hubertus é um dos hotéis de charme mais tradicionais e elegantes de Gramado, e sua localização é um dos seus maiores atrativos, em frente ao Lago Negro."
+  },
+  {
+    "instrucao": "Que tipo de experiências românticas o Hotel Alpestre oferece?",
+    "resposta": "O Hotel Alpestre oferece pacotes românticos que podem incluir desde espumante e flores no quarto, até massagens e terapias assinadas pelo Kur SPA, fondue servido no apartamento e cestas de piquenique para o jardim."
+  },
+  {
+    "instrucao": "Posso pedir um piquenique no Hotel Alpestre?",
+    "resposta": "Sim, o hotel oferece cestas de piquenique para casais, que podem ser locadas para aproveitar o belo jardim da propriedade ou para levar a um passeio no Lago Negro."
+  },
+  {
+    "instrucao": "Qual cidade é conhecida como a Capital do Moscatel?",
+    "resposta": "A cidade de Farroupilha é conhecida como a capital do Moscatel. A vinícola Casa Perini, localizada lá, é um ícone na produção de espumantes premiados dessa variedade."
+  },
+  {
+    "instrucao": "Onde devo ir para provar os melhores vinhos Moscatel da Serra Gaúcha?",
+    "resposta": "A recomendação é visitar a cidade de Farroupilha, a capital do Moscatel, e em especial a vinícola Casa Perini, cujo espumante Moscatel já ganhou diversos prêmios."
+  },
+  {
+    "instrucao": "O que é a experiência da Sabrage na Videiras Carraro?",
+    "resposta": "A Sabrage é a técnica de abrir uma garrafa de espumante com um sabre. A vinícola familiar Videiras Carraro oferece essa experiência diferenciada aos seus visitantes."
+  },
+  {
+    "instrucao": "Qual vinícola familiar no Vale dos Vinhedos oferece a experiência de abrir espumante com um sabre?",
+    "resposta": "A Videiras Carraro, uma agroindústria familiar, oferece a experiência da Sabrage, que é a arte de abrir garrafas de espumante com um sabre."
+  },
+  {
+    "instrucao": "Onde fica a Cascata Salto Ventoso?",
+    "resposta": "A Cascata Salto Ventoso é uma atração natural localizada na cidade de Farroupilha, na Serra Gaúcha."
+  },
+  {
+    "instrucao": "Qual passeio na natureza posso combinar com uma visita à Cervejaria Blauth Bier?",
+    "resposta": "Uma ótima combinação é visitar a Cascata Salto Ventoso, pois tanto a cachoeira quanto a Cervejaria Blauth Bier ficam no município de Farroupilha."
+  },
+  {
+    "instrucao": "A que complexo turístico pertence o Hotel & SPA do Vinho?",
+    "resposta": "O Hotel & SPA do Vinho faz parte do grande complexo de enoturismo da Casa Valduga, no Vale dos Vinhedos."
+  },
+  {
+    "instrucao": "Onde fica o restaurante Maria Valduga?",
+    "resposta": "O restaurante Maria Valduga faz parte do complexo da Casa Valduga, um dos principais destinos de enoturismo no Vale dos Vinhedos."
+  },
+  {
+    "instrucao": "Que tipo de experiência a Cave do Sol oferece para crianças?",
+    "resposta": "A Cave do Sol, uma vinícola moderna no Vale dos Vinhedos, se diferencia por oferecer uma 'experiência kids', tornando o passeio agradável também para as crianças."
+  },
+  {
+    "instrucao": "Estou viajando com meus filhos, qual vinícola no Vale dos Vinhedos tem atividades para eles?",
+    "resposta": "A Cave do Sol é uma excelente opção, pois é uma das poucas que oferece uma 'experiência kids', além de ter um visual moderno e obras de arte que podem entreter a todos."
+  },
+  {
+    "instrucao": "O que é o roteiro Cantinas Históricas?",
+    "resposta": "É um roteiro em Bento Gonçalves, também conhecido como Linha Faria Lemos e Vale Aurora. É famoso por ter uma das paisagens de vinhedos mais bonitas da região."
+  },
+  {
+    "instrucao": "Qual roteiro em Bento Gonçalves é conhecido por suas belas paisagens de vinhedos?",
+    "resposta": "A Rota Cantinas Históricas (ou Linha Faria Lemos e Vale Aurora) é reconhecida por ter uma das paisagens mais deslumbrantes de vinhedos da Serra Gaúcha."
+  },
+  {
+    "instrucao": "Onde fica o Mundo de Chocolate?",
+    "resposta": "O Mundo de Chocolate é um parque temático localizado na Av. Borges de Medeiros, 2497, no centro de Gramado."
+  },
+  {
+    "instrucao": "Onde posso ver uma réplica da Torre Eiffel feita de chocolate?",
+    "resposta": "Você pode ver essa e outras 200 esculturas de chocolate, incluindo monumentos famosos, no parque temático Mundo de Chocolate, em Gramado."
+  },
+  {
+    "instrucao": "Qual o diferencial da rua Buarque de Macedo em Garibaldi?",
+    "resposta": "O grande diferencial é sua revitalização, que preservou as fachadas centenárias, mas instalou toda a fiação e cabeamentos de forma subterrânea, deixando a rua visualmente limpa, charmosa e fotogênica."
+  },
+  {
+    "instrucao": "Qual rua histórica em Garibaldi não tem fios de poste aparentes?",
+    "resposta": "A rua Buarque de Macedo, o coração do centro histórico, passou por uma revitalização que incluiu a instalação de toda a fiação de forma subterrânea, valorizando sua arquitetura."
+  },
+  {
+    "instrucao": "Quando acontece a Festa da Colônia em Gramado?",
+    "resposta": "A Festa da Colônia, que celebra as tradições dos primeiros moradores, acontece em Gramado durante o mês de maio."
+  },
+  {
+    "instrucao": "Qual evento em Gramado celebra a gastronomia típica dos imigrantes?",
+    "resposta": "A Festa da Colônia, realizada em maio, é o evento perfeito para isso. Ela celebra as tradições e oferece uma vasta gama da gastronomia típica dos colonizadores alemães e italianos."
+  },
+  {
+    "instrucao": "Onde fica a Casa do Tomate?",
+    "resposta": "A Casa do Tomate é uma das atrações que fazem parte do roteiro Caminhos de Pedra, no município de Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual atração no roteiro Caminhos de Pedra é dedicada a um fruto vermelho?",
+    "resposta": "A Casa do Tomate, que conta a história e mostra a produção de derivados do tomate, é uma das paradas do roteiro Caminhos de Pedra."
+  },
+  {
+    "instrucao": "Qual vinícola no Vale dos Vinhedos é recomendada para quem quer tirar fotos para o Instagram?",
+    "resposta": "A Vinícola Marco Luigi é uma ótima escolha para isso. Por estar em uma região mais alta, ela oferece vistas panorâmicas espetaculares, sendo um destino popular para fotos e eventos."
+  },
+  {
+    "instrucao": "Estou procurando uma vinícola 'instagramável' no Vale dos Vinhedos. Qual você sugere?",
+    "resposta": "A Marco Luigi é a sugestão ideal. Suas instalações e a vista privilegiada da região alta do vale a tornam um cenário perfeito para fotos."
+  },
+  {
+    "instrucao": "Onde fica o restaurante Nature Vinho & Gastronomia?",
+    "resposta": "O restaurante Nature Vinho & Gastronomia fica dentro da Vinícola Don Giovanni, em Pinto Bandeira."
+  },
+  {
+    "instrucao": "Qual o nome do restaurante da Vinícola Don Giovanni?",
+    "resposta": "O restaurante da Vinícola Don Giovanni chama-se Nature Vinho & Gastronomia."
+  },
+  {
+    "instrucao": "O que é a Rota dos Espumantes?",
+    "resposta": "É um roteiro turístico em Garibaldi, a Capital Brasileira do Espumante. O roteiro guia os visitantes por diversas vinícolas da cidade especializadas na produção da bebida, como a Peterlongo e a Chandon."
+  },
+  {
+    "instrucao": "Qual o principal roteiro turístico de Garibaldi?",
+    "resposta": "O principal roteiro é a 'ROTA DOS ESPUMANTES', que celebra a vocação da cidade como a Capital Brasileira do Espumante."
+  },
+  {
+    "instrucao": "Qual o diferencial do café da manhã do Hotel Varanda das Bromélias?",
+    "resposta": "O grande diferencial é que, além de ser considerado um dos melhores de Gramado, ele é servido até o meio-dia, oferecendo mais flexibilidade e conforto para os hóspedes."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado é bom para quem gosta de acordar tarde?",
+    "resposta": "O Hotel Varanda das Bromélias é ideal, pois seu famoso café da manhã é servido até as 12h, permitindo que os hóspedes aproveitem a manhã com mais calma."
+  },
+  {
+    "instrucao": "Onde fica a Trilha do Rio?",
+    "resposta": "A Trilha do Rio percorre a parte de baixo do Cânion Itaimbezinho, mas seu acesso não é por Cambará do Sul (RS), e sim pela cidade de Praia Grande, em Santa Catarina."
+  },
+  {
+    "instrucao": "A Trilha do Rio é para iniciantes?",
+    "resposta": "Não, a Trilha do Rio é considerada de maior dificuldade e mais indicada para aventureiros experientes, pois percorre o leito do rio na base do cânion."
+  },
+  {
+    "instrucao": "Qual a principal atração de Farroupilha, além das vinícolas?",
+    "resposta": "Além de ser a capital do Moscatel, Farroupilha abriga a Cascata Salto Ventoso, um parque natural famoso por ter uma passarela que permite caminhar por trás da queda d'água."
+  },
+  {
+    "instrucao": "O que fazer em Farroupilha se eu não beber vinho?",
+    "resposta": "Você pode visitar a Cascata Salto Ventoso para uma experiência na natureza, onde é possível caminhar atrás da cachoeira, ou conhecer a Cervejaria Blauth Bier, que serve comida típica alemã e cervejas artesanais."
+  },
+  {
+    "instrucao": "O que é o Hotel & SPA do Vinho?",
+    "resposta": "É um hotel de luxo da coleção Autograph Collection, localizado no coração do Vale dos Vinhedos. Ele faz parte do complexo da vinícola Casa Valduga e é famoso por sua estrutura completa de enoturismo e bem-estar, incluindo um spa com tratamentos à base de vinho."
+  },
+  {
+    "instrucao": "Qual hotel no Vale dos Vinhedos oferece tratamentos de spa com vinho?",
+    "resposta": "O Hotel & SPA do Vinho é a referência para isso. Como o nome sugere, seu spa oferece vinoterapia, com tratamentos que utilizam as propriedades da uva e do vinho."
+  },
+  {
+    "instrucao": "Qual o principal evento de Gramado em agosto?",
+    "resposta": "Em agosto, durante a alta temporada de inverno, Gramado sedia o seu evento mais famoso e tradicional: o Festival de Cinema de Gramado."
+  },
+  {
+    "instrucao": "Vou para Gramado em agosto, o que está acontecendo na cidade?",
+    "resposta": "Agosto é o auge do inverno e da alta temporada. Além de curtir o frio, você poderá acompanhar o movimento do Festival de Cinema de Gramado, o principal evento da cidade nesse mês."
+  },
+  {
+    "instrucao": "O que é o roteiro PASSADAS em Garibaldi?",
+    "resposta": "É um roteiro a pé pelo centro histórico de Garibaldi, muito bem sinalizado. Em frente a cada prédio e casa histórica, há placas que contam um pouco sobre sua história e importância."
+  },
+  {
+    "instrucao": "Como posso aprender sobre a história da arquitetura de Garibaldi enquanto caminho pela cidade?",
+    "resposta": "A melhor forma é seguir o roteiro 'PASSADAS'. Ele é um circuito autoguiado com placas informativas em frente às construções históricas, permitindo que você aprenda enquanto passeia."
+  },
+  {
+    "instrucao": "O Garden Park Gramado aceita animais de estimação?",
+    "resposta": "Sim, o Garden Park Gramado é um local pet friendly, permitindo que você leve seu animal de estimação para aproveitar os jardins e trilhas."
+  },
+  {
+    "instrucao": "Posso levar meu cachorro no Garden Park?",
+    "resposta": "Sim, o parque aceita pets. Você pode levar seu cachorro para passear nos espaços ao ar livre."
+  },
+  {
+    "instrucao": "Onde fica a Casa da Erva-Mate?",
+    "resposta": "A Casa da Erva-Mate é uma das atrações históricas do roteiro Caminhos de Pedra, em Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual atração do roteiro Caminhos de Pedra é sobre a bebida típica do gaúcho?",
+    "resposta": "A Casa da Erva-Mate, que faz parte do roteiro Caminhos de Pedra, é dedicada a contar a história e mostrar a produção do chimarrão."
+  },
+  {
+    "instrucao": "Qual vinícola no Vale dos Vinhedos é uma boa opção para casamentos?",
+    "resposta": "A vinícola Marco Luigi é um destino popular para eventos e casamentos. Por estar em uma região alta e ser muito bonita, oferece um cenário espetacular para cerimônias."
+  },
+  {
+    "instrucao": "Estou procurando um lugar para casar no Vale dos Vinhedos. Alguma sugestão?",
+    "resposta": "A Vinícola Marco Luigi é uma excelente sugestão. Ela é conhecida por sediar muitos casamentos devido à sua beleza e à vista incrível que proporciona."
+  },
+  {
+    "instrucao": "O que é o restaurante Nature Vinho & Gastronomia?",
+    "resposta": "É o restaurante que funciona dentro da Vinícola Don Giovanni, em Pinto Bandeira, e é responsável pela parte gastronômica do complexo, que inclui também uma pousada."
+  },
+  {
+    "instrucao": "Onde posso almoçar em Pinto Bandeira, além do Champenoise Bistrô?",
+    "resposta": "Outra ótima opção é o restaurante Nature Vinho & Gastronomia, localizado dentro da Vinícola Don Giovanni."
+  },
+  {
+    "instrucao": "Qual o horário de funcionamento do Wine Garden da Miolo?",
+    "resposta": "O Wine Garden Miolo abre de quarta a domingo, incluindo feriados, das 11h às 18h30."
+  },
+  {
+    "instrucao": "O Wine Garden abre às segundas-feiras?",
+    "resposta": "Não, o Wine Garden da Miolo funciona de quarta a domingo. Ele não abre às segundas e terças-feiras."
+  },
+  {
+    "instrucao": "Qual a principal característica da Rota Vale do Rio das Antas?",
+    "resposta": "A principal característica é sua paisagem exuberante, onde as águas do Rio das Antas formam uma ferradura ao redor das montanhas. A rota combina vinhos, cachaça de qualidade e belos mirantes."
+  },
+  {
+    "instrucao": "Qual rota em Bento Gonçalves é marcada por uma curva de rio em formato de ferradura?",
+    "resposta": "Essa paisagem é a marca registrada da Rota Vale do Rio das Antas, onde o rio de mesmo nome contorna as montanhas."
+  },
+  {
+    "instrucao": "Qual o nome do restaurante da Casa Valduga?",
+    "resposta": "O restaurante que faz parte do complexo da Casa Valduga, no Vale dos Vinhedos, chama-se Maria Valduga."
+  },
+  {
+    "instrucao": "Onde fica o restaurante Maria Valduga?",
+    "resposta": "O restaurante Maria Valduga está localizado dentro do complexo de enoturismo da vinícola Casa Valduga, no Vale dos Vinhedos."
+  },
+  {
+    "instrucao": "O que a vinícola Família Geisse oferece aos visitantes?",
+    "resposta": "A Família Geisse, em Pinto Bandeira, é famosa por seus espumantes de alta qualidade. Ela oferece um 'garden' para degustações ao ar livre e a 'Geisse Terroir Experience', um passeio pela propriedade com paradas para degustação."
+  },
+  {
+    "instrucao": "Qual vinícola em Pinto Bandeira é famosa por seu 'garden'?",
+    "resposta": "A vinícola Família Geisse é muito conhecida por seu 'garden', um espaço ao ar livre muito concorrido para degustar seus excelentes espumantes."
+  },
+  {
+    "instrucao": "Qual o diferencial da Pousada Pipas Terroir?",
+    "resposta": "O documento menciona a Pousada Pipas Terroir como uma novidade na Rota Vale dos Vinhedos, mas não detalha seus diferenciais."
+  },
+  {
+    "instrucao": "O que é a Vinícola Salvati & Sirena?",
+    "resposta": "A Vinícola Salvati & Sirena é uma das atrações do roteiro Caminhos de Pedra, em Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual o nome do restaurante do Hotel Parador?",
+    "resposta": "O restaurante do Hotel Parador, em Cambará do Sul, chama-se Alma RS e é conhecido por sua excelente gastronomia, sendo aberto também para não-hóspedes."
+  },
+  {
+    "instrucao": "Onde fica o restaurante Alma RS?",
+    "resposta": "O restaurante Alma RS está localizado dentro do Hotel Parador, em Cambará do Sul, e é uma referência de alta gastronomia na região dos cânions."
+  },
+  {
+    "instrucao": "Qual a principal característica da cidade de Monte Belo do Sul?",
+    "resposta": "Monte Belo do Sul é uma cidade pequena e charmosa que faz parte do roteiro do Vale dos Vinhedos. É recomendada como uma visita para se surpreender no final do roteiro."
+  },
+  {
+    "instrucao": "Qual cidade fica no final do roteiro do Vale dos Vinhedos?",
+    "resposta": "A pequena e charmosa cidade de Monte Belo do Sul está localizada no final do roteiro do Vale dos Vinhedos."
+  },
+  {
+    "instrucao": "Qual o nome do restaurante da Vinícola Don Giovanni?",
+    "resposta": "O restaurante da Vinícola Don Giovanni, em Pinto Bandeira, chama-se Nature Vinho & Gastronomia."
+  },
+  {
+    "instrucao": "Onde posso encontrar o restaurante Nature Vinho & Gastronomia?",
+    "resposta": "O restaurante Nature Vinho & Gastronomia fica dentro da Vinícola Don Giovanni, na cidade de Pinto Bandeira."
+  },
+  {
+    "instrucao": "A Casa Perini fica em qual cidade?",
+    "resposta": "A Casa Perini, famosa por seu Moscatel e pelo passeio de bicicleta, está localizada na cidade de Farroupilha."
+  },
+  {
+    "instrucao": "Em qual cidade fica a capital do Moscatel?",
+    "resposta": "A cidade de Farroupilha é considerada a capital do Moscatel na Serra Gaúcha."
+  },
+  {
+    "instrucao": "Qual o nome do fundador do Garden Park Gramado?",
+    "resposta": "O documento menciona que o Garden Park foi idealizado pelo fundador do Grupo Sierra (Sierra Móveis), mas não cita o nome dele."
+  },
+  {
+    "instrucao": "O que era o Garden Park antes de ser um parque?",
+    "resposta": "Antes de ser um parque, o espaço do Garden Park Gramado era uma propriedade privada na Linha 28, uma área rural de Gramado."
+  },
+  {
+    "instrucao": "Qual a origem do nome da cidade de Cambará do Sul?",
+    "resposta": "O nome vem do tupi-guarani e significa 'folha de casca rugosa', que é o nome de uma árvore típica da região. Um exemplar pode ser visto na praça central da cidade."
+  },
+  {
+    "instrucao": "O que significa Cambará do Sul?",
+    "resposta": "O nome, de origem tupi-guarani, significa 'folha de casca rugosa' e se refere a uma árvore típica da região dos Campos de Cima da Serra."
+  },
+  {
+    "instrucao": "O que é a Rota do Chocolate?",
+    "resposta": "É um dos principais atrativos de Gramado, consistindo em um roteiro que passa pelas mais de 30 fábricas de chocolate da cidade, muitas com produção artesanal, visitação e degustação."
+  },
+  {
+    "instrucao": "Quantas fábricas de chocolate existem em Gramado?",
+    "resposta": "A cidade de Gramado possui mais de 30 fábricas de chocolate, sendo um destino imperdível para os amantes do doce."
+  },
+  {
+    "instrucao": "Qual o principal evento de Gramado em abril?",
+    "resposta": "Em abril, o principal evento é a Páscoa. A cidade, famosa por seus chocolates, ganha uma decoração temática e oferece atrações especiais para celebrar a data."
+  },
+  {
+    "instrucao": "Se eu visitar Gramado em abril, o que vou encontrar?",
+    "resposta": "Em abril, você encontrará a cidade celebrando a Páscoa, com decorações temáticas, eventos especiais e, claro, muito destaque para os famosos chocolates de Gramado."
+  },
+  {
+    "instrucao": "Descreva o Hotel Varanda das Bromélias.",
+    "resposta": "É um hotel localizado em um dos pontos mais altos de Gramado, com apenas 17 apartamentos. Seus diferenciais são os quartos bem decorados com lareira e hidro, um SPA e um dos melhores cafés da manhã da cidade, servido até o meio-dia."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado tem quartos com lareira e hidromassagem?",
+    "resposta": "O Hotel Varanda das Bromélias oferece quartos com essa configuração, além de sacada, sendo uma ótima opção para uma estadia romântica e aconchegante."
+  },
+  {
+    "instrucao": "Onde fica a Vinícola Salton?",
+    "resposta": "A Vinícola Salton é uma das principais atrações da Rota Vale do Rio das Antas, em Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual grande vinícola faz parte da Rota Vale do Rio das Antas?",
+    "resposta": "A Vinícola Salton é uma das grandes vinícolas que você pode visitar ao percorrer a Rota Vale do Rio das Antas."
+  },
+  {
+    "instrucao": "Onde fica o Parque Dal Pizzol?",
+    "resposta": "O Parque Dal Pizzol, que combina vinícola e uma grande área verde, é uma das atrações da Rota Cantinas Históricas, em Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual atração da Rota Cantinas Históricas combina vinícola e parque?",
+    "resposta": "O Parque Dal Pizzol é essa atração, oferecendo aos visitantes tanto a experiência de uma vinícola quanto um amplo espaço de natureza para explorar."
+  },
+  {
+    "instrucao": "O que é o 'Circuito das Águas'?",
+    "resposta": "É um passeio oferecido em Cambará do Sul, geralmente em veículos 4x4, que explora cascatas e fazendas nas cidades vizinhas, como a Cascata dos Venâncios e o Passo da Ilha."
+  },
+  {
+    "instrucao": "Que tipo de passeio a empresa Coiote oferece em Cambará do Sul?",
+    "resposta": "A empresa Coiote é mencionada como uma das que oferecem o passeio 'Circuito das Águas' em veículos 4x4, explorando as cascatas da região."
+  },
+  {
+    "instrucao": "O que é a Cooperativa Garibaldi?",
+    "resposta": "É uma importante vinícola com mais de 80 anos de história, localizada no centro de Garibaldi. Ela oferece visitação diária e experiências especiais que precisam ser agendadas, como degustação às cegas."
+  },
+  {
+    "instrucao": "Qual vinícola no centro de Garibaldi tem mais de 80 anos de história?",
+    "resposta": "A Cooperativa Garibaldi é essa vinícola. Ela fica no centro da cidade e é uma das mais tradicionais, oferecendo visitação todos os dias."
+  },
+  {
+    "instrucao": "Qual o diferencial do restaurante Champenoise Bistrô?",
+    "resposta": "O Champenoise Bistrô, em Pinto Bandeira, se destaca por oferecer um menu degustação com pratos elaborados, ingredientes orgânicos e uma boa carta de vinhos."
+  },
+  {
+    "instrucao": "Onde posso encontrar um menu degustação com ingredientes orgânicos em Pinto Bandeira?",
+    "resposta": "O restaurante Champenoise Bistrô é a recomendação para essa experiência gastronômica, com seu menu degustação focado em pratos elaborados e ingredientes orgânicos."
+  },
+  {
+    "instrucao": "O que é a Casa da Ovelha?",
+    "resposta": "A Casa da Ovelha é um parque e uma das principais atrações do roteiro Caminhos de Pedra, em Bento Gonçalves. É uma ótima opção de passeio, especialmente para famílias com crianças."
+  },
+  {
+    "instrucao": "Qual atração no roteiro Caminhos de Pedra é focada em animais?",
+    "resposta": "A Casa da Ovelha é a atração focada em animais no roteiro Caminhos de Pedra, sendo um passeio muito popular entre as famílias."
+  },
+  {
+    "instrucao": "Onde fica o Belvedere Sonda?",
+    "resposta": "O Belvedere Sonda fica em Nova Pádua e oferece uma vista panorâmica do Vale do Rio das Antas. A Pousada Rugero está localizada ao lado dele."
+  },
+  {
+    "instrucao": "De onde tenho a melhor vista do Vale do Rio das Antas em Nova Pádua?",
+    "resposta": "O Belvedere Sonda é o principal mirante da cidade, proporcionando uma vista espetacular do Vale do Rio das Antas."
+  },
+  {
+    "instrucao": "Qual o nome do restaurante da Escola de Gastronomia da UCS?",
+    "resposta": "O restaurante da Escola de Gastronomia da UCS em Flores da Cunha chama-se Dolce Itália."
+  },
+  {
+    "instrucao": "Onde fica o restaurante Dolce Itália?",
+    "resposta": "O restaurante Dolce Itália está localizado na Escola de Gastronomia da UCS (Universidade de Caxias do Sul), em Flores da Cunha."
+  },
+  {
+    "instrucao": "Qual a principal característica do Hotel & SPA do Vinho?",
+    "resposta": "É um hotel de luxo da coleção Autograph Collection, localizado no coração do Vale dos Vinhedos. Ele faz parte do complexo da vinícola Casa Valduga e é famoso por sua estrutura completa de enoturismo e bem-estar, incluindo um spa com tratamentos à base de vinho."
+  },
+  {
+    "instrucao": "O que é a vinícola Pizzato?",
+    "resposta": "A Pizzato é mencionada como uma das vinícolas boutique de respeito que estão situadas na rota do Vale dos Vinhedos."
+  },
+  {
+    "instrucao": "A vinícola Almaúnica fica em qual roteiro?",
+    "resposta": "A vinícola boutique Almaúnica está localizada no Vale dos Vinhedos, o principal roteiro de enoturismo do Brasil."
+  },
+  {
+    "instrucao": "Qual o nome do restaurante do Hotel Casa da Montanha?",
+    "resposta": "O documento menciona que o hotel tem um restaurante com gastronomia impecável, mas não especifica o nome dele."
+  },
+  {
+    "instrucao": "O que é a Ponte dos Arcos?",
+    "resposta": "A Ponte dos Arcos é uma das atrações da Rota Vale do Rio das Antas, em Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual o nome da ponte histórica na Rota Vale do Rio das Antas?",
+    "resposta": "A ponte histórica que faz parte da Rota Vale do Rio das Antas é a Ponte dos Arcos."
+  },
+  {
+    "instrucao": "O que é a Vinícola Cainelli?",
+    "resposta": "A Vinícola Cainelli é uma das principais atrações da Rota Vale do Rio das Antas, em Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual vinícola faz parte da Rota Vale do Rio das Antas?",
+    "resposta": "A Vinícola Cainelli, a Vinícola Salton e a Casa Bucco são algumas das principais vinícolas que fazem parte da Rota Vale do Rio das Antas."
+  },
+  {
+    "instrucao": "Onde posso encontrar o restaurante Primo Camilo?",
+    "resposta": "O restaurante Primo Camilo é uma das excelentes opções de gastronomia na cidade de Garibaldi."
+  },
+  {
+    "instrucao": "O que é a Tabacaria Benvenuto?",
+    "resposta": "A Tabacaria Benvenuto é mencionada como uma das opções de restaurante na cidade de Garibaldi."
+  },
+  {
+    "instrucao": "Qual o nome do restaurante da vinícola Viapiana?",
+    "resposta": "O restaurante da vinícola Viapiana, em Flores da Cunha, chama-se Trattoria Gazoldo."
+  },
+  {
+    "instrucao": "Onde fica a Trattoria Gazoldo?",
+    "resposta": "A Trattoria Gazoldo é o restaurante localizado dentro da vinícola Viapiana, em Flores da Cunha."
+  },
+  {
+    "instrucao": "Onde fica a vinícola Família Bebber?",
+    "resposta": "A Vinícola Família Bebber está localizada em Flores da Cunha e é uma das paradas sugeridas no roteiro de 2 dias pela região."
+  },
+  {
+    "instrucao": "Qual vinícola em Flores da Cunha tem um deck para curtir a vista?",
+    "resposta": "A Vinícola Família Bebber é mencionada por ter um deck onde os visitantes podem curtir a paisagem após a degustação."
+  },
+  {
+    "instrucao": "Onde fica a Vinícola Salvattore?",
+    "resposta": "A Vinícola Salvattore está localizada em Flores da Cunha e faz parte da Rota dos Vinhos de Altos Montes."
+  },
+  {
+    "instrucao": "Qual vinícola em Flores da Cunha faz parte da Apromontes?",
+    "resposta": "A Vinícola Salvattore é uma das vinícolas de Flores da Cunha que fazem parte da Apromontes (Associação de Produtores dos Vinhos dos Altos Montes)."
+  },
+  {
+    "instrucao": "Onde fica a Casa Venturini?",
+    "resposta": "A Casa Venturini é uma das vinícolas que podem ser visitadas na cidade de Flores da Cunha."
+  },
+  {
+    "instrucao": "Qual o nome do hotel recomendado em Flores da Cunha?",
+    "resposta": "O documento recomenda o Hotel Letto para hospedagem na cidade de Flores da Cunha."
+  },
+  {
+    "instrucao": "O que é o roteiro Otávio Rocha?",
+    "resposta": "Otávio Rocha é um dos roteiros rurais que podem ser percorridos na cidade de Flores da Cunha."
+  },
+  {
+    "instrucao": "Qual o nome de um dos roteiros rurais de Flores da Cunha?",
+    "resposta": "Um dos roteiros rurais de Flores da Cunha é o Otávio Rocha, além de Compassos Da Mérica e Caminhos da Colônia."
+  },
+  {
+    "instrucao": "O que é a Casa Vanni?",
+    "resposta": "O Restaurante Casa Vanni é uma das atrações gastronômicas do roteiro Caminhos de Pedra, em Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual restaurante fica no roteiro Caminhos de Pedra?",
+    "resposta": "Existem várias opções, como o Restaurante Casa Vanni e o Restaurante Nona Ludia, ambos localizados no roteiro Caminhos de Pedra."
+  },
+  {
+    "instrucao": "Onde fica a Cantina Strapazzon?",
+    "resposta": "A Cantina Strapazzon é uma das principais atrações do roteiro Caminhos de Pedra, em Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual atração no Caminhos de Pedra é uma cantina?",
+    "resposta": "A Cantina Strapazzon é uma das cantinas históricas que fazem parte do roteiro Caminhos de Pedra."
+  },
+  {
+    "instrucao": "O que é a Vinícola Valmarino?",
+    "resposta": "A Vinícola Valmarino é uma das vinícolas que podem ser visitadas em Pinto Bandeira, o terroir do espumante."
+  },
+  {
+    "instrucao": "Qual vinícola em Pinto Bandeira faz parte da rota do espumante?",
+    "resposta": "A Vinícola Valmarino é uma das três principais vinícolas destacadas em Pinto Bandeira, junto com a Cave Geisse e a Don Giovanni."
+  },
+  {
+    "instrucao": "O que é o Mirante da Cascata dos Amores?",
+    "resposta": "É um mirante localizado em Pinto Bandeira, de onde se pode apreciar a paisagem e a cascata de mesmo nome."
+  },
+  {
+    "instrucao": "Onde posso encontrar um mirante em Pinto Bandeira?",
+    "resposta": "Você pode visitar o Mirante da Cascata dos Amores, uma das atrações da cidade."
+  },
+  {
+    "instrucao": "Qual a principal diferença cultural entre a Região das Hortênsias e a Região da Uva e do Vinho?",
+    "resposta": "A principal diferença é a origem da colonização. A Região das Hortênsias, com cidades como Gramado e Canela, tem forte influência da cultura alemã. Já a Região da Uva e do Vinho, como Bento Gonçalves, foi colonizada por italianos, o que se reflete na gastronomia e na produção de vinhos."
+  },
+  {
+    "instrucao": "Se eu quiser vivenciar a cultura gaúcha mais tradicional, para qual região da Serra devo ir?",
+    "resposta": "Para uma experiência focada na cultura gaúcha tradicional, a região ideal é a dos Campos de Cima da Serra, onde ficam cidades como Cambará do Sul e São Francisco de Paula."
+  },
+  {
+    "instrucao": "Onde fica a vinícola Peterlongo e qual sua maior curiosidade?",
+    "resposta": "A Vinícola Peterlongo fica no centro de Garibaldi. Sua maior curiosidade é ser a única vinícola fora da França autorizada legalmente a usar o termo 'champagne' em seus espumantes."
+  },
+  {
+    "instrucao": "Qual vinícola brasileira foi pioneira na produção de espumantes?",
+    "resposta": "A Vinícola Peterlongo, em Garibaldi, foi a pioneira, elaborando o primeiro espumante brasileiro no ano de 1913."
+  },
+  {
+    "instrucao": "Onde posso encontrar um hotel com arquitetura de castelo em Gramado?",
+    "resposta": "O Hotel Colline de France é famoso por sua decoração em estilo clássico, onde os quartos remetem a um castelo. É uma opção muito procurada por casais."
+  },
+  {
+    "instrucao": "O Hotel Colline de France fica perto do centro de Gramado?",
+    "resposta": "Não, o hotel fica mais afastado do centro de Gramado, sendo ideal para quem está de carro e busca uma experiência mais reservada e romântica."
+  },
+  {
+    "instrucao": "Quais são as principais atrações do Mátria Parque das Flores?",
+    "resposta": "Os principais atrativos são seus 30 jardins, que somam 9 milhões de mudas de plantas. Além disso, o parque oferece 4 km de trilhas, mirantes, uma cascata, restaurante, wine bar e serviço de piquenique."
+  },
+  {
+    "instrucao": "O Mátria Parque é uma boa opção para fugir do movimento de Gramado?",
+    "resposta": "Sim, o Mátria Parque é um belo refúgio para quem quer escapar das multidões da alta temporada em Gramado e Canela, por estar localizado a 35 km da cidade, em São Francisco de Paula."
+  },
+  {
+    "instrucao": "Qual a história por trás da Cervejaria Blauth Bier?",
+    "resposta": "A cervejaria nasceu do resgate de uma história familiar. Os proprietários encontraram uma antiga receita de cerveja escrita por seu bisavô alemão, que havia fundado o primeiro hotel de veraneio do RS no local, e decidiram homenageá-lo."
+  },
+  {
+    "instrucao": "O que é o 'Veraneio Desvio Blauth'?",
+    "resposta": "Era o nome do primeiro hotel de veraneio do Rio Grande do Sul, fundado em meados de 1900 pelo bisavô dos atuais proprietários da Cervejaria Blauth Bier, em Farroupilha."
+  },
+  {
+    "instrucao": "Qual o prato típico de Flores da Cunha e qual sua origem?",
+    "resposta": "O prato típico é o Menarosto, uma técnica de assar carnes em um rolete de espetos giratório. A técnica foi trazida pelos imigrantes italianos que colonizaram a região."
+  },
+  {
+    "instrucao": "Que tipo de carne é usada no Menarosto hoje em dia?",
+    "resposta": "Antigamente usava-se carne de caça, mas atualmente o Menarosto é feito principalmente com frango e galeto."
+  },
+  {
+    "instrucao": "Onde fica o Hotel Casacurta?",
+    "resposta": "O Hotel Casacurta está localizado na cidade de Garibaldi, a Capital Brasileira do Espumante."
+  },
+  {
+    "instrucao": "Qual restaurante pertence ao Hotel Casacurta?",
+    "resposta": "O restaurante do hotel chama-se Hostaria Casacurta e é uma das excelentes opções de gastronomia em Garibaldi."
+  },
+  {
+    "instrucao": "Qual a principal trilha do Cânion Fortaleza?",
+    "resposta": "A principal trilha do Cânion Fortaleza é a Trilha do Mirante, que leva aos pontos de observação dos paredões que se assemelham a muralhas."
+  },
+  {
+    "instrucao": "O acesso ao Cânion Fortaleza é pavimentado?",
+    "resposta": "Não, o acesso de 23 km a partir do centro de Cambará do Sul é parcialmente em estrada de chão com muitas pedras, sendo recomendado um carro adequado."
+  },
+  {
+    "instrucao": "A Vinícola Luiz Argenta tem restaurante?",
+    "resposta": "Sim, a Vinícola Luiz Argenta, em Flores da Cunha, é uma das que conta com um restaurante em suas instalações, além de se destacar pela arquitetura."
+  },
+  {
+    "instrucao": "Qual o diferencial das garrafas da Vinícola Luiz Argenta?",
+    "resposta": "Um dos diferenciais da Luiz Argenta é o cuidado com o design. Suas garrafas inconfundíveis, assim como as taças, já se tornaram uma marca registrada da vinícola."
+  },
+  {
+    "instrucao": "Se eu quiser história e arquitetura, qual roteiro devo escolher: Caminhos de Pedra ou Vale do Rio das Antas?",
+    "resposta": "Para história e arquitetura colonial, o roteiro Caminhos de Pedra é a escolha certa, sendo um Patrimônio Histórico do RS com suas casas de pedra. O Vale do Rio das Antas é mais focado em paisagens naturais e vinícolas."
+  },
+  {
+    "instrucao": "O que é o Vale dos Vinhedos?",
+    "resposta": "É o principal e mais famoso roteiro de enoturismo do Brasil, localizado na Serra Gaúcha. Ele pertence aos municípios de Bento Gonçalves, Garibaldi e Monte Belo do Sul e concentra vinícolas de grande renome."
+  },
+  {
+    "instrucao": "O que o Wine Garden da Miolo oferece no cardápio?",
+    "resposta": "O cardápio inclui vinhos e espumantes da Miolo em taças ou garrafas, drinks como Spritz, e comidinhas como bruschettas, pizzas, empanadas e tábuas de frios."
+  },
+  {
+    "instrucao": "O Wine Garden funciona durante a semana?",
+    "resposta": "Ele funciona de quarta a domingo, incluindo feriados, das 11h às 18h30. O espaço não abre às segundas e terças-feiras."
+  },
+  {
+    "instrucao": "Qual a proposta da Rota dos Vinhos de Altos Montes?",
+    "resposta": "É uma associação de mais de dez vinícolas de Flores da Cunha e Nova Pádua que busca promover a região como produtora de vinhos finos com certificação de origem, incentivando a qualificação da bebida."
+  },
+  {
+    "instrucao": "Quais cidades fazem parte da Rota dos Vinhos de Altos Montes?",
+    "resposta": "A rota está situada no interior dos municípios de Flores da Cunha e Nova Pádua."
+  },
+  {
+    "instrucao": "Descreva o Hotel Saint Andrews.",
+    "resposta": "É o hotel mais luxuoso e exclusivo de Gramado, com apenas onze suítes. Funciona em um prédio estilo castelo com vista para o Vale do Quilombo e oferece serviços de alto padrão, como mordomos e uma adega particular."
+  },
+  {
+    "instrucao": "Quantas suítes tem o Hotel Saint Andrews?",
+    "resposta": "O hotel possui apenas onze suítes, o que garante um altíssimo nível de exclusividade e serviço personalizado para seus hóspedes."
+  },
+  {
+    "instrucao": "O que fazer no Dia 1 do roteiro sugerido para Flores da Cunha e Nova Pádua?",
+    "resposta": "A sugestão para o primeiro dia é almoçar na Trattoria Gazoldo (na vinícola Viapiana), visitar a Vinícola Família Bebber à tarde e, por fim, curtir o entardecer na Pousada Rugero ou na Adega Dom Camilo."
+  },
+  {
+    "instrucao": "O que fazer no Dia 2 do roteiro sugerido para Flores da Cunha e Nova Pádua?",
+    "resposta": "No segundo dia, a sugestão é uma caminhada matinal no entorno da Pousada Rugero, visita à Vinícola Salvattore, almoço no restaurante Dolce Itália da UCS e, para finalizar, uma visita à Vinícola Luiz Argenta ou Casa Venturini."
+  },
+  {
+    "instrucao": "Onde fica o Parque de Aventuras Gasper?",
+    "resposta": "O Parque de Aventuras Gasper é a principal atração da rota rural Encantos de Eulália, nos arredores de Bento Gonçalves."
+  },
+  {
+    "instrucao": "Qual roteiro em Bento Gonçalves é ideal para quem busca aventura?",
+    "resposta": "O roteiro Encantos de Eulália é o mais indicado, pois sua atração principal é o Parque de Aventuras Gasper."
+  },
+  {
+    "instrucao": "Qual vinícola do Vale dos Vinhedos tem uma conexão com a Copa do Mundo?",
+    "resposta": "A vinícola Lídio Carraro, que fica na rota do Vale dos Vinhedos, é a que tem essa conexão, pois produziu o vinho oficial da Copa do Mundo de 2014."
+  },
+  {
+    "instrucao": "O vinho da Copa de 2014 foi produzido em qual vinícola?",
+    "resposta": "O vinho oficial da Copa do Mundo de 2014 foi produzido pela vinícola Lídio Carraro, no Vale dos Vinhedos."
+  },
+  {
+    "instrucao": "O que é o Tim-Tim de Garibaldi?",
+    "resposta": "O Tim-Tim é um caminhão GMC de 1944 que foi adaptado para oferecer um passeio guiado pelo centro histórico de Garibaldi. O tour acontece aos sábados pela manhã."
+  },
+  {
+    "instrucao": "Onde sai o passeio de Tim-Tim em Garibaldi?",
+    "resposta": "A saída do passeio de Tim-Tim acontece ao lado da Cooperativa Garibaldi, no centro da cidade, aos sábados às 11h."
+  },
+  {
+    "instrucao": "A visita à Chandon é gratuita?",
+    "resposta": "Sim, as visitas guiadas na Chandon em Garibaldi são gratuitas, mas é essencial agendar com antecedência pelo site da vinícola."
+  },
+  {
+    "instrucao": "Preciso agendar para visitar a Chandon?",
+    "resposta": "Sim, o agendamento prévio pelo site é obrigatório para realizar as visitas guiadas, que são gratuitas."
+  },
+  {
+    "instrucao": "Qual a melhor época para ir a Gramado se meu orçamento é limitado?",
+    "resposta": "A melhor época é a baixa temporada, que inclui os meses de fevereiro, março, maio e setembro. Nesses períodos, o movimento na cidade é menor e os preços de hospedagem, restaurantes e atrações são mais baixos."
+  },
+  {
+    "instrucao": "Quando Gramado é mais barato?",
+    "resposta": "Gramado é mais barato durante a baixa temporada. Os meses de maio e setembro são ótimos por terem clima ameno e menos turistas. Fevereiro e março também são opções mais econômicas, porém mais quentes."
+  },
+  {
+    "instrucao": "Onde fica o Hotel La Hacienda?",
+    "resposta": "O Hotel La Hacienda está localizado em uma área rural a 14 km do centro de Gramado, oferecendo uma experiência de isolamento e contato com a natureza."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado é composto por chalés rústicos?",
+    "resposta": "O Hotel La Hacienda é composto por seis chalés com decoração rústica, utilizando móveis e peças garimpadas de antigas casas de colonos."
+  },
+  {
+    "instrucao": "Qual o estilo de decoração do Hotel Colline de France?",
+    "resposta": "O Hotel Colline de France tem um estilo clássico e luxuoso, com muito 'rococó', onde a decoração dos quartos remete a um castelo."
+  },
+  {
+    "instrucao": "O Hotel Colline de France tem piscina?",
+    "resposta": "Sim, em 2022 o hotel inaugurou uma bela piscina coberta, complementando sua estrutura de luxo."
+  },
+  {
+    "instrucao": "Qual a localização do Hotel St Hubertus?",
+    "resposta": "O Hotel St Hubertus possui uma localização privilegiada em Gramado, estando situado exatamente em frente ao Lago Negro."
+  },
+  {
+    "instrucao": "Qual hotel de charme em Gramado fica em frente a um famoso lago?",
+    "resposta": "O St Hubertus, um dos hotéis de charme mais tradicionais da cidade, fica em frente ao Lago Negro."
+  },
+  {
+    "instrucao": "O Hotel Alpestre oferece fondue no quarto?",
+    "resposta": "Sim, entre os opcionais dos pacotes românticos do Hotel Alpestre está a possibilidade de ter um fondue servido diretamente no apartamento."
+  },
+  {
+    "instrucao": "O Hotel Alpestre tem spa?",
+    "resposta": "Sim, o hotel oferece massagens e terapias assinadas pelo renomado Kur SPA como parte de seus pacotes românticos."
+  },
+  {
+    "instrucao": "Qual a cidade conhecida como Capital do Moscatel?",
+    "resposta": "A cidade de Farroupilha é reconhecida como a capital do Moscatel. A vinícola Casa Perini, localizada lá, é um grande destaque na produção de espumantes premiados dessa variedade."
+  },
+  {
+    "instrucao": "Onde posso provar o premiado espumante Moscatel da Casa Perini?",
+    "resposta": "Você pode provar este espumante na própria vinícola Casa Perini, que fica em Farroupilha, a capital do Moscatel."
+  },
+  {
+    "instrucao": "O que é a Sabrage?",
+    "resposta": "É a técnica de abrir uma garrafa de espumante utilizando um sabre. A vinícola familiar Videiras Carraro, no Vale dos Vinhedos, oferece essa experiência aos visitantes."
+  },
+  {
+    "instrucao": "Qual vinícola no Vale dos Vinhedos ensina a abrir espumante com um sabre?",
+    "resposta": "A Videiras Carraro, uma agroindústria familiar, oferece a experiência da Sabrage, que é a arte de abrir a garrafa com um sabre."
+  },
+  {
+    "instrucao": "Onde fica a Cascata Salto Ventoso?",
+    "resposta": "A Cascata Salto Ventoso é uma atração natural localizada no município de Farroupilha, na Serra Gaúcha."
+  },
+  {
+    "instrucao": "Qual cachoeira em Farroupilha tem uma passarela por trás da queda d'água?",
+    "resposta": "É a Cascata Salto Ventoso, que possui uma gruta e uma passarela que permitem aos visitantes uma visão única por trás da cortina de água."
+  },
+  {
+    "instrucao": "O Hotel & SPA do Vinho pertence a qual vinícola?",
+    "resposta": "O Hotel & SPA do Vinho faz parte do grande complexo de enoturismo da vinícola Casa Valduga."
+  },
+  {
+    "instrucao": "Onde fica o restaurante Maria Valduga?",
+    "resposta": "O restaurante Maria Valduga está localizado dentro do complexo da vinícola Casa Valduga, no Vale dos Vinhedos."
+  },
+  {
+    "instrucao": "Que tipo de experiência artística a Cave do Sol oferece?",
+    "resposta": "A Cave do Sol, uma vinícola moderna no Vale dos Vinhedos, é repleta de obras de arte de artistas da região da Serra Gaúcha, integrando arte e vinho em sua experiência."
+  },
+  {
+    "instrucao": "Qual vinícola no Vale dos Vinhedos é inspirada no sol e tem obras de arte?",
+    "resposta": "A Cave do Sol é essa vinícola. Sua arquitetura e conceito são inspirados no sol e ela exibe diversas obras de arte de artistas locais."
+  },
+  {
+    "instrucao": "Descreva o Hotel Parador em Cambará do Sul.",
+    "resposta": "O Parador é um hotel de luxo no estilo 'glamping', com acomodações em barracas de luxo. Faz parte da coleção Casa Hotéis e possui um renomado restaurante, o Alma RS, além de oferecer experiências na natureza."
+  },
+  {
+    "instrucao": "Qual hotel em Cambará do Sul oferece 'glamping'?",
+    "resposta": "O Hotel Parador é a referência em 'glamping' (acampamento com glamour) na região dos cânions, oferecendo uma hospedagem de luxo em meio à natureza."
+  },
+  {
+    "instrucao": "Qual outro nome é dado à Rota Cantinas Históricas?",
+    "resposta": "A Rota Cantinas Históricas, em Bento Gonçalves, também é conhecida como Linha Faria Lemos e Vale Aurora."
+  },
+  {
+    "instrucao": "Onde fica a Linha Faria Lemos?",
+    "resposta": "Linha Faria Lemos é outro nome para a Rota Cantinas Históricas, um percurso em Bento Gonçalves conhecido por suas belas paisagens de vinhedos."
+  },
+  {
+    "instrucao": "O que são as esculturas do Mundo de Chocolate?",
+    "resposta": "São mais de 200 peças desenvolvidas em puro chocolate maciço, recriando ícones mundiais como a Torre Eiffel, o Cristo Redentor, a Casa Branca e o Monte Rushmore."
+  },
+  {
+    "instrucao": "Qual monumento do Rio de Janeiro tem uma réplica de chocolate em Gramado?",
+    "resposta": "O Cristo Redentor é um dos monumentos que possuem uma réplica feita inteiramente de chocolate no parque temático Mundo de Chocolate, em Gramado."
+  },
+  {
+    "instrucao": "Qual a principal característica da rua Buarque de Macedo em Garibaldi?",
+    "resposta": "Sua principal característica é a excelente preservação do patrimônio histórico combinada com uma revitalização moderna, que incluiu a instalação de toda a fiação de forma subterrânea, tornando-a visualmente limpa e charmosa."
+  },
+  {
+    "instrucao": "Qual rua em Garibaldi é um exemplo de preservação histórica?",
+    "resposta": "A rua Buarque de Macedo é o grande exemplo. É uma das vias mais antigas do estado e foi totalmente revitalizada, mantendo suas fachadas centenárias."
+  },
+  {
+    "instrucao": "Quando acontece o Festival de Cinema de Gramado?",
+    "resposta": "O Festival de Cinema de Gramado ocorre durante a Temporada de Inverno, geralmente nos meses de junho, julho ou agosto."
+  },
+  {
+    "instrucao": "Qual o principal evento cultural do inverno em Gramado?",
+    "resposta": "O principal evento cultural do inverno é o Festival de Cinema de Gramado, que atrai muitos visitantes e movimenta a cidade."
+  },
+  {
+    "instrucao": "O que é o roteiro PASSADAS?",
+    "resposta": "É um roteiro a pé pelo centro histórico de Garibaldi. Ele é sinalizado com placas em frente a cada prédio histórico, contando um pouco sobre sua história, o que permite um passeio autoguiado."
+  },
+  {
+    "instrucao": "Como posso conhecer a história dos prédios de Garibaldi por conta própria?",
+    "resposta": "Você pode seguir o roteiro 'PASSADAS'. É um circuito a pé bem sinalizado com placas informativas em frente a cada construção histórica, explicando sua importância."
+  },
+  {
+    "instrucao": "O que é a Casa do Tomate?",
+    "resposta": "A Casa do Tomate é uma das atrações do roteiro Caminhos de Pedra, em Bento Gonçalves, dedicada a contar a história e mostrar a produção de derivados do tomate."
+  },
+  {
+    "instrucao": "Qual atração nos Caminhos de Pedra é sobre um fruto usado na culinária italiana?",
+    "resposta": "A Casa do Tomate é essa atração. Ela faz parte do roteiro Caminhos de Pedra e foca na importância do tomate para os imigrantes."
+  },
+  {
+    "instrucao": "Qual vinícola no Vale dos Vinhedos é um bom local para eventos?",
+    "resposta": "A vinícola Marco Luigi é um destino popular para eventos e casamentos, pois além de ser muito bonita, está localizada em uma região alta do vale, oferecendo vistas espetaculares."
+  },
+  {
+    "instrucao": "Estou organizando um casamento, qual vinícola no Vale dos Vinhedos é recomendada?",
+    "resposta": "A Marco Luigi é muito procurada para casamentos, pois suas instalações e a vista panorâmica da região alta do vale criam um cenário deslumbrante para eventos."
+  },
+  {
+    "instrucao": "O que a Vinícola Don Giovanni oferece além de vinhos?",
+    "resposta": "Além de ser uma vinícola, a Don Giovanni em Pinto Bandeira também é uma pousada com quartos em um casarão histórico e um restaurante, o Nature Vinho & Gastronomia."
+  },
+  {
+    "instrucao": "Posso me hospedar na Vinícola Don Giovanni?",
+    "resposta": "Sim, a Don Giovanni funciona como uma pousada, oferecendo hospedagem em um casarão de 1930, além da experiência enogastronômica completa com seu restaurante."
+  },
+  {
+    "instrucao": "Qual o principal roteiro turístico de Garibaldi?",
+    "resposta": "O principal roteiro é a 'ROTA DOS ESPUMANTES', que celebra a vocação da cidade como a Capital Brasileira do Espumante, incluindo visitas a vinícolas como Peterlongo e Chandon."
+  },
+  {
+    "instrucao": "O que fazer em Garibaldi se eu gosto de espumantes?",
+    "resposta": "Você deve percorrer a 'ROTA DOS ESPUMANTES', um roteiro que guia os visitantes pelas principais vinícolas produtoras da bebida na cidade."
+  },
+  {
+    "instrucao": "Qual o horário do café da manhã no Hotel Varanda das Bromélias?",
+    "resposta": "Um grande diferencial do hotel é que seu famoso café da manhã é servido até o meio-dia, proporcionando mais conforto e flexibilidade aos hóspedes."
+  },
+  {
+    "instrucao": "Qual hotel em Gramado serve café da manhã até as 12h?",
+    "resposta": "O Hotel Varanda das Bromélias é conhecido por essa conveniência, servindo seu elogiado café da manhã até o meio-dia."
+  },
+  {
+    "instrucao": "A Trilha do Rio, no Itaimbezinho, tem acesso por qual estado?",
+    "resposta": "O acesso para a Trilha do Rio, que fica na parte de baixo do Cânion Itaimbezinho, é pela cidade de Praia Grande, no estado de Santa Catarina (SC)."
+  },
+  {
+    "instrucao": "Qual a trilha mais desafiadora do Cânion Itaimbezinho?",
+    "resposta": "A Trilha do Rio é considerada a mais desafiadora. Por percorrer a parte de baixo do cânion, é indicada para aventureiros com mais experiência."
+  },
+  {
+    "instrucao": "O que é o restaurante Alma RS?",
+    "resposta": "O Alma RS é o renomado restaurante do Hotel Parador, em Cambará do Sul. É aberto ao público e conhecido por sua alta gastronomia."
+  },
+  {
+    "instrucao": "Onde posso ter uma experiência de alta gastronomia em Cambará do Sul?",
+    "resposta": "O restaurante Alma RS, localizado dentro do Hotel Parador, é a principal referência de alta gastronomia na região dos cânions."
+  }
+]
